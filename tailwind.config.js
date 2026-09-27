@@ -1,0 +1,97 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
+  darkMode: 'class',
+  theme: {
+    extend: {
+      fontFamily: {
+        sans: ['Inter', 'system-ui', 'sans-serif'],
+        display: ['Fraunces', 'Georgia', 'serif'],
+      },
+      colors: {
+        // Warm Moroccan-inspired palette
+        sand: {
+          50: '#faf8f3',
+          100: '#f5f0e6',
+          200: '#e8dcc4',
+          300: '#d4c4a0',
+          400: '#b8a47a',
+          500: '#9c8460',
+          600: '#7d6845',
+          700: '#5e4f33',
+          800: '#3f3622',
+          900: '#211a12',
+        },
+        terracotta: {
+          50: '#fdf5f0',
+          100: '#fae8dc',
+          200: '#f4d0bc',
+          300: '#ebb094',
+          400: '#dd8868',
+          500: '#c96a44',
+          600: '#ad4f30',
+          700: '#8a3d25',
+          800: '#6b2f1d',
+          900: '#4a1f14',
+        },
+        zellige: {
+          50: '#f0f9f4',
+          100: '#dcf2e6',
+          200: '#bbe4d0',
+          300: '#8fd0b4',
+          400: '#5bb893',
+          500: '#3a9c78',
+          600: '#2a7d5f',
+          700: '#22634d',
+          800: '#1c4d3d',
+          900: '#163a2f',
+        },
+        saffron: {
+          50: '#fffbeb',
+          100: '#fef3c7',
+          200: '#fde68a',
+          300: '#facc15',
+          400: '#eab308',
+          500: '#d97706',
+          600: '#b45309',
+          700: '#92400e',
+          800: '#78350f',
+          900: '#5c2e0c',
+        },
+        ink: {
+          50: '#f6f6f4',
+          100: '#e9e9e4',
+          200: '#d3d3cc',
+          300: '#b3b3a9',
+          400: '#8e8e83',
+          500: '#6f6f64',
+          600: '#525249',
+          700: '#3d3d36',
+          800: '#292925',
+          900: '#1a1a17',
+          950: '#0d0d0c',
+        },
+      },
+      animation: {
+        'fade-in': 'fadeIn 0.4s ease-out',
+        'slide-up': 'slideUp 0.5s ease-out',
+        'shimmer': 'shimmer 2s linear infinite',
+      },
+      keyframes: {
+        fadeIn: {
+          '0%': { opacity: '0' },
+          '100%': { opacity: '1' },
+        },
+        slideUp: {
+          '0%': { opacity: '0', transform: 'translateY(12px)' },
+          '100%': { opacity: '1', transform: 'translateY(0)' },
+        },
+        shimmer: {
+          '0%': { backgroundPosition: '-1000px 0' },
+          '100%': { backgroundPosition: '1000px 0' },
+        },
+      },
+    },
+  },
+  plugins: [],
+};

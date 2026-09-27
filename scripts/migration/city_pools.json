@@ -1,0 +1,2259 @@
+{
+  "Casablanca": {
+    "id": "a2222222-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+    "cats": ["tour", "guided", "workshop", "stay", "meal", "activity", "transfer"],
+    "pools": {
+      "tour": [
+        ["Hassan II Mosque Guided Visit", 19068524],
+        ["Casablanca Corniche Seaside Walk", 30557503],
+        ["Old Medina Discovery Walk", 14996117],
+        ["Art Deco Architecture Tour", 18341651],
+        ["Central Market & Hubs Tour", 22711555],
+        ["Mohammed V Square Walking Tour", 19068524],
+        ["Sacré-Cœur Cathedral Visit", 18341651],
+        ["Casablanca Twin Center Viewpoint", 19068524],
+        ["Habous Quarter Guided Walk", 14996117],
+        ["Ain Diab Beachfront Stroll", 30557503],
+        ["Casablanca Jewish Heritage Tour", 18341651],
+        ["Boulevard de la Corniche Sunset Walk", 30557503],
+        ["Casablanca Street Art Walk", 28582577],
+        ["Parc de la Ligue Arabe Walk", 19068524],
+        ["Casablanca Cathedral & Art Deco Walk", 18341651]
+      ],
+      "guided": [
+        ["Local Life in Derb Sultan", 29595710],
+        ["Casablanca Food Market Discovery", 22711555],
+        ["Hidden Gems of Old Casablanca", 28582577],
+        ["Insider Walking Tour of Maârif", 29595710],
+        ["Casablanca Nightlife District Walk", 19068524],
+        ["Fisherman Wharf Guided Visit", 6662921],
+        ["Casablanca Cinema Heritage Walk", 18341651],
+        ["Neighborhood Discovery in Habous", 14996117]
+      ],
+      "workshop": [
+        ["Moroccan Cooking Class with Chef Hassan", 2287528],
+        ["Couscous Making Workshop", 2287528],
+        ["Pastilla & Tagine Cooking Class", 2287528],
+        ["Arabic Calligraphy Workshop", 36792023],
+        ["Henna Art Workshop", 4727987],
+        ["Moroccan Bread Baking Class", 5475052],
+        ["Spice Market Blending Workshop", 31653073],
+        ["Moroccan Pastry Making Class", 2287528],
+        ["Pottery & Ceramic Painting Workshop", 32422996]
+      ],
+      "stay": [
+        ["Boutique Riad in Old Medina", 15531325],
+        ["Art Deco Hotel Stay", 34940612],
+        ["Seaside Hotel on Corniche", 30557503],
+        ["Luxury Suite with Ocean View", 34645081],
+        ["Traditional Guesthouse in Habous", 15531322],
+        ["Heritage Riad with Courtyard", 15531325],
+        ["Modern Hotel in City Center", 34940612],
+        ["Rooftop Suite with Mosque View", 34645081]
+      ],
+      "meal": [
+        ["Fresh Seafood at Corniche Restaurant", 998244],
+        ["Traditional Moroccan Dinner in Riad", 998244],
+        ["Street Food Tour in Old Medina", 27999308],
+        ["Rooftop Dinner with Mosque Views", 50630],
+        ["Couscous Friday Lunch Experience", 36916123],
+        ["Harira & Tagine Tasting", 30068444],
+        ["Moroccan Pastries & Tea Ceremony", 30906051],
+        ["Fine Dining at Casablanca Brasserie", 9143471],
+        ["Farm-to-Table Dinner Experience", 2287524],
+        ["Family-Style Moroccan Home Meal", 36799049]
+      ],
+      "activity": [
+        ["Hammam & Spa Half-Day", 33279021],
+        ["Yoga Session on the Corniche", 36895635],
+        ["Casablanca City Cycling Tour", 13358011],
+        ["Beach Horse Riding at Ain Diab", 11491900],
+        ["Surf Lesson at Ain Diab Beach", 36005570],
+        ["Cooking Class with Market Visit", 2287528],
+        ["Casablanca Photography Walk", 35097550],
+        ["Sunset Sailing from Casablanca Port", 29781323]
+      ],
+      "transfer": [
+        ["Airport Private Transfer", 241190],
+        ["City-to-City Private Driver", 11877391],
+        ["Luxury Chauffeur Service", 11877391],
+        ["Train Station Transfer", 10133480],
+        ["Group Shuttle Service", 27987052],
+        ["Hotel-to-Attraction Transfer", 6621125],
+        ["Scenic Coastal Route Transfer", 37401857],
+        ["Multi-Stop Transfer Service", 15360686],
+        ["Night Transfer Service", 19068524],
+        ["Family Transfer with Car Seats", 14719525]
+      ]
+    }
+  },
+  "Rabat": {
+    "id": "a6666666-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+    "cats": ["tour", "guided", "workshop", "stay", "meal", "activity", "transfer"],
+    "pools": {
+      "tour": [
+        ["Hassan Tower & Mausoleum of Mohammed V", 18341651],
+        ["Kasbah of the Udayas Walk", 14996117],
+        ["Rabat Medina Discovery", 19068524],
+        ["Chellah Necropolis Visit", 18341651],
+        ["Royal Palace Exterior Tour", 19068524],
+        ["Andalusian Gardens Stroll", 14996117],
+        ["Rabat Corniche & Bouregreg River Walk", 30557503],
+        ["Kasbah des Oudaias Fortified Walls", 18341651],
+        ["Mohammed VI Museum of Modern Art", 18341651],
+        ["Rabat Archaeological Museum Visit", 18341651],
+        ["Tour Hassan Esplanade Walk", 19068524],
+        ["Old Mellah Jewish Quarter Tour", 14996117],
+        ["Rabat Beach & Atlantic Coast Walk", 30557503],
+        ["Bab Oudaia Gate & Kasbah Tour", 18341651],
+        ["Rue des Consuls Souk Walk", 14996117]
+      ],
+      "guided": [
+        ["Hidden Alleyways of the Udayas Kasbah", 14996117],
+        ["Rabat Souk Insider Walk", 22711555],
+        ["Bouregreg Marina Riverside Walk", 30557503],
+        ["Rabat Medina Food Discovery", 27999308],
+        ["Historic Monuments of Rabat Walk", 18341651],
+        ["Andalusian Gardens & Kasbah Guided Tour", 14996117],
+        ["Rabat Street Food Crawl", 27999308],
+        ["Chellah Gardens & Ruins Guided Visit", 18341651]
+      ],
+      "workshop": [
+        ["Rabat Pottery & Zellige Workshop", 32422996],
+        ["Traditional Moroccan Cooking Class", 2287528],
+        ["Andalusian Music Workshop", 36792023],
+        ["Calligraphy & Illumination Workshop", 36792023],
+        ["Moroccan Tea Ceremony Workshop", 30906051],
+        ["Rabat Carpet Weaving Workshop", 32422996],
+        ["Spice Blending & Tagine Workshop", 31653073],
+        ["Leather Tannery Workshop Visit", 32422996]
+      ],
+      "stay": [
+        ["Riad in Kasbah of the Udayas", 15531325],
+        ["Boutique Hotel Near Hassan Tower", 34940612],
+        ["Riverside Hotel on Bouregreg", 30557503],
+        ["Heritage Riad in Rabat Medina", 15531325],
+        ["Modern Hotel Near Royal Palace", 34940612],
+        ["Seaside Guesthouse on Rabat Beach", 30557503],
+        ["Luxury Suite with Hassan Tower View", 34645081],
+        ["Traditional Andalusian-Style Riad", 15531322]
+      ],
+      "meal": [
+        ["Seafood Dinner on Bouregreg River", 998244],
+        ["Traditional Tagine in Medina Riad", 998244],
+        ["Rabat Street Food Tasting Tour", 27999308],
+        ["Andalusian-Inspired Dinner", 50630],
+        ["Couscous Lunch at Traditional Restaurant", 36916123],
+        ["Rooftop Dinner with Kasbah Views", 50630],
+        ["Moroccan Pastry & Mint Tea Tasting", 30906051],
+        ["Fine Dining Near Hassan Tower", 9143471],
+        ["Harira Soup & Grilled Fish Dinner", 30068444],
+        ["Family-Style Rabat Home Meal", 36799049]
+      ],
+      "activity": [
+        ["Surf Lesson at Rabat Beach", 36005570],
+        ["Hammam & Spa in Medina", 33279021],
+        ["Bouregreg River Kayaking", 29781323],
+        ["Rabat City Bike Tour", 13358011],
+        ["Beach Yoga at Rabat Corniche", 36895635],
+        ["Horse Riding on Rabat Beach", 11491900],
+        ["Photography Walk in the Kasbah", 35097550],
+        ["Sunset Boat Ride on Bouregreg", 29781323]
+      ],
+      "transfer": [
+        ["Rabat Airport Private Transfer", 241190],
+        ["Rabat to Casablanca Private Driver", 11877391],
+        ["Train Station Transfer", 10133480],
+        ["Hotel-to-Medina Transfer", 6621125],
+        ["Group Shuttle to Hassan Tower", 27987052],
+        ["Luxury Chauffeur Service", 11877391],
+        ["Scenic Coastal Transfer", 37401857],
+        ["Multi-Stop Monument Transfer", 15360686],
+        ["Night Transfer Service", 19068524],
+        ["Family Transfer with Car Seats", 14719525]
+      ]
+    }
+  },
+  "Marrakech": {
+    "id": "a1111111-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+    "cats": ["tour", "guided", "workshop", "stay", "meal", "activity", "desert", "transfer"],
+    "pools": {
+      "tour": [
+        ["Jemaa el-Fna Square Guided Walk", 14996117],
+        ["Bahia Palace Visit", 18341651],
+        ["Koutoubia Mosque & Gardens Tour", 19068524],
+        ["Saadian Tombs Guided Visit", 18341651],
+        ["Majorelle Garden & YSL Museum Tour", 18341651],
+        ["Ben Youssef Madrasa Visit", 18341651],
+        ["Marrakech Medina Souks Walk", 14996117],
+        ["El Badi Palace Ruins Tour", 18341651],
+        ["Mellah Jewish Quarter Walk", 14996117],
+        ["Marrakech City Walls & Gates Tour", 19068524],
+        ["Le Jardin Secret Visit", 18341651],
+        ["Cyber Park & Koutoubia Gardens Walk", 19068524],
+        ["Marrakech Museum & Dar Si Said Tour", 18341651],
+        ["Bab Agnaou Gate & Royal Palace Walk", 18341651],
+        ["Gueliz Modern District Walk", 28582577]
+      ],
+      "guided": [
+        ["Hidden Souks of Marrakech Medina", 14996117],
+        ["Marrakech Food Market Discovery", 22711555],
+        ["Insider Tour of the Tanneries", 32422996],
+        ["Local Life in the Mellah Quarter", 14996117],
+        ["Marrakech Night Market at Jemaa el-Fna", 27999308],
+        ["Art & Design Walk in Gueliz", 28582577],
+        ["Hidden Gardens of Marrakech Walk", 18341651],
+        ["Spice Souk & Herbalist Guided Tour", 31653073]
+      ],
+      "workshop": [
+        ["Marrakech Tagine Cooking Class", 2287528],
+        ["Pottery & Zellige Tile Workshop", 32422996],
+        ["Leather Goods Making Workshop", 32422996],
+        ["Moroccan Spice Blending Workshop", 31653073],
+        ["Berber Carpet Weaving Workshop", 32422996],
+        ["Henna Art Workshop", 4727987],
+        ["Moroccan Pastilla Making Class", 2287528],
+        ["Calligraphy & Illumination Workshop", 36792023],
+        ["Argan Oil & Cosmetic Workshop", 31653073],
+        ["Lantern & Metalwork Workshop", 32422996]
+      ],
+      "stay": [
+        ["Luxury Riad in the Medina", 15531325],
+        ["Boutique Riad Near Jemaa el-Fna", 15531325],
+        ["Palace Hotel in Gueliz", 34940612],
+        ["Traditional Riad with Pool", 15531322],
+        ["Rooftop Riad with Atlas Mountain Views", 34645081],
+        ["Heritage Guesthouse in the Mellah", 15531322],
+        ["Modern Villa in Palmeraie", 34940612],
+        ["Spa Riad with Hammam", 33279021]
+      ],
+      "meal": [
+        ["Rooftop Dinner Overlooking Jemaa el-Fna", 50630],
+        ["Traditional Tagine in a Medina Riad", 998244],
+        ["Marrakech Street Food Tour at Jemaa el-Fna", 27999308],
+        ["Couscous Lunch in a Traditional Restaurant", 36916123],
+        ["Fine Dining in Gueliz", 9143471],
+        ["Moroccan Pastry & Mint Tea Ceremony", 30906051],
+        ["Harira Soup & Mechoui Tasting", 30068444],
+        ["Farm-to-Table Dinner at Palmeraie", 2287524],
+        ["Family-Style Berber Dinner", 36799049],
+        ["Gourmet Dinner at Majorelle Garden", 18341651]
+      ],
+      "activity": [
+        ["Hammam & Spa in a Traditional Riad", 33279021],
+        ["Hot Air Balloon Ride Over Marrakech", 36895635],
+        ["Quad Biking in the Palmeraie", 13358011],
+        ["Marrakech Medina Bike Tour", 13358011],
+        ["Cooking Class with Souk Visit", 2287528],
+        ["Marrakech Photography Tour", 35097550],
+        ["Horse Carriage Ride to Agdal Gardens", 11491900],
+        ["Yoga & Meditation at a Riad Retreat", 36895635]
+      ],
+      "desert": [
+        ["Agafay Desert Sunset Camel Ride", 11491900],
+        ["Agafay Desert 4x4 Adventure", 13358011],
+        ["Agafay Desert Dinner & Stargazing", 50630],
+        ["Quad Biking in Agafay Desert", 13358011],
+        ["Agafay Desert Horseback Ride", 11491900],
+        ["Overnight Desert Camp in Agafay", 15531322],
+        ["Agafay Desert Hot Air Balloon", 36895635]
+      ],
+      "transfer": [
+        ["Marrakech Airport Private Transfer", 241190],
+        ["City-to-City Private Driver", 11877391],
+        ["Luxury Chauffeur Service", 11877391],
+        ["Hotel-to-Medina Transfer", 6621125],
+        ["Group Shuttle Service", 27987052],
+        ["Transfer to Atlas Mountains", 37401857],
+        ["Transfer to Agafay Desert", 37401857],
+        ["Multi-Stop Transfer Service", 15360686],
+        ["Night Transfer Service", 19068524],
+        ["Family Transfer with Car Seats", 14719525]
+      ]
+    }
+  },
+  "Fès": {
+    "id": "a3333333-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+    "cats": ["tour", "guided", "workshop", "stay", "meal", "activity", "transfer"],
+    "pools": {
+      "tour": [
+        ["Fes el-Bali Medina Guided Walk", 14996117],
+        ["Al Quaraouiyine University & Mosque Visit", 18341651],
+        ["Bou Inania Madrasa Tour", 18341651],
+        ["Chouara Tannery Guided Visit", 32422996],
+        ["Bab Bou Jeloud Gate & Blue Walk", 18341651],
+        ["Fes el-Jdid & Royal Palace Tour", 19068524],
+        ["Merenid Tombs Panoramic View", 18341651],
+        ["Borj Nord Museum & Fortress Visit", 18341651],
+        ["Jnan Sbil Gardens Walk", 19068524],
+        ["Fes Jewish Mellah Tour", 14996117],
+        ["Andalusian Quarter Walk", 14996117],
+        ["Nejjarine Museum & Woodcraft Visit", 32422996],
+        ["Seffarine Square & Copper Souk Tour", 14996117],
+        ["Fes Pottery & Tile District Walk", 32422996],
+        ["Batha Museum & Andalusian Garden Visit", 18341651]
+      ],
+      "guided": [
+        ["Hidden Alleys of Fes el-Bali", 14996117],
+        ["Fes Souk Discovery Tour", 22711555],
+        ["Tannery Insider Guided Visit", 32422996],
+        ["Fes Street Food Crawl", 27999308],
+        ["Artisan Quarter Guided Walk", 32422996],
+        ["Fes Night Walk in the Medina", 19068524],
+        ["Andalusian Heritage Walk in Fes", 14996117],
+        ["Fes Jewish Heritage Tour", 14996117]
+      ],
+      "workshop": [
+        ["Fes Pottery & Ceramic Workshop", 32422996],
+        ["Zellige Tile Making Workshop", 32422996],
+        ["Traditional Fassi Cooking Class", 2287528],
+        ["Leatherworking Workshop at the Tannery", 32422996],
+        ["Copper & Metalwork Workshop", 32422996],
+        ["Calligraphy & Manuscript Workshop", 36792023],
+        ["Moroccan Pastilla Making Class", 2287528],
+        ["Spice Blending & Herbalist Workshop", 31653073],
+        ["Berber Carpet Weaving Workshop", 32422996],
+        ["Wood Carving & Painting Workshop", 32422996]
+      ],
+      "stay": [
+        ["Heritage Riad in Fes el-Bali", 15531325],
+        ["Boutique Riad Near Bab Bou Jeloud", 15531325],
+        ["Traditional Guesthouse in the Medina", 15531322],
+        ["Luxury Riad with Rooftop Terrace", 34645081],
+        ["Palace Hotel Near Royal Palace", 34940612],
+        ["Riad with Tannery Views", 32422996],
+        ["Andalusian-Style Riad with Courtyard", 15531322],
+        ["Modern Hotel in Fes el-Jdid", 34940612]
+      ],
+      "meal": [
+        ["Traditional Fassi Dinner in a Riad", 998244],
+        ["Fes Street Food Tour in the Medina", 27999308],
+        ["Couscous Lunch at a Traditional Restaurant", 36916123],
+        ["Rooftop Dinner with Medina Views", 50630],
+        ["Harira & Tagine Tasting Experience", 30068444],
+        ["Moroccan Pastry & Tea Ceremony", 30906051],
+        ["Fine Dining at a Fes Riad", 9143471],
+        ["Family-Style Fassi Home Meal", 36799049],
+        ["Mechoui Roast Lamb Tasting", 30068444],
+        ["Andalusian-Inspired Dinner", 50630]
+      ],
+      "activity": [
+        ["Hammam & Spa in the Medina", 33279021],
+        ["Fes Medina Photography Walk", 35097550],
+        ["Traditional Music & Dance Performance", 36792023],
+        ["Fes Pottery & Tile District Visit", 32422996],
+        ["Cooking Class with Market Visit", 2287528],
+        ["Fes City Cycling Tour", 13358011],
+        ["Yoga & Meditation at a Riad", 36895635],
+        ["Horse Carriage Ride Around the Medina", 11491900]
+      ],
+      "transfer": [
+        ["Fes Airport Private Transfer", 241190],
+        ["City-to-City Private Driver", 11877391],
+        ["Luxury Chauffeur Service", 11877391],
+        ["Train Station Transfer", 10133480],
+        ["Hotel-to-Medina Transfer", 6621125],
+        ["Group Shuttle Service", 27987052],
+        ["Transfer to Middle Atlas Mountains", 37401857],
+        ["Transfer to Chefchaouen", 37401857],
+        ["Multi-Stop Transfer Service", 15360686],
+        ["Family Transfer with Car Seats", 14719525]
+      ]
+    }
+  },
+  "Chefchaouen": {
+    "id": "a8888888-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+    "cats": ["tour", "guided", "workshop", "stay", "meal", "activity", "transfer"],
+    "pools": {
+      "tour": [
+        ["Chefchaouen Blue Medina Walk", 14996117],
+        ["Kasbah Museum & Gardens Visit", 18341651],
+        ["Plaza Uta el-Hammam Tour", 19068524],
+        ["Ras El Maa Springs Walk", 14996117],
+        ["Spanish Mosque Hilltop View", 18341651],
+        ["Chefchaouen Medina Walls Tour", 19068524],
+        ["Outa el-Hammam Square Walk", 14996117],
+        ["Chefchaouen Waterfall & Springs Walk", 14996117],
+        ["Bab el-Ain Gate & Medina Tour", 18341651],
+        ["Chefchaouen Ethnographic Museum Visit", 18341651],
+        ["Jewish Quarter & Old Mellah Walk", 14996117],
+        ["Chefchaouen Souk Discovery Walk", 22711555],
+        ["Bab Onsar Gate & Hillside Walk", 18341651],
+        ["Chefchaouen Panoramic Viewpoint Walk", 19068524],
+        ["Ras El Maa to Spanish Mosque Trail", 14996117]
+      ],
+      "guided": [
+        ["Hidden Blue Alleys of Chefchaouen", 14996117],
+        ["Chefchaouen Photography Walk", 35097550],
+        ["Local Life in the Medina", 14996117],
+        ["Chefchaouen Food & Souk Discovery", 22711555],
+        ["Springs & Waterfalls Guided Walk", 14996117],
+        ["Sunset Walk to Spanish Mosque", 18341651],
+        ["Chefchaouen Art & Craft Walk", 32422996],
+        ["Rif Mountains Foothill Walk", 14996117]
+      ],
+      "workshop": [
+        ["Chefchaouen Wool Weaving Workshop", 32422996],
+        ["Natural Dye & Textile Workshop", 32422996],
+        ["Traditional Moroccan Cooking Class", 2287528],
+        ["Goat Cheese Making Workshop", 2287528],
+        ["Chefchaouen Pottery Workshop", 32422996],
+        ["Henna Art Workshop", 4727987],
+        ["Leather & Saddlebag Workshop", 32422996],
+        ["Berber Jewelry Making Workshop", 32422996],
+        ["Spice Blending & Herbal Tea Workshop", 31653073]
+      ],
+      "stay": [
+        ["Blue Riad in the Medina", 15531325],
+        ["Guesthouse Near Plaza Uta el-Hammam", 15531322],
+        ["Riad with Mountain Views", 34645081],
+        ["Boutique Hotel in the Medina", 34940612],
+        ["Traditional House Near Ras El Maa", 15531322],
+        ["Riad with Rooftop Terrace", 34645081],
+        ["Heritage Guesthouse in the Kasbah", 15531325],
+        ["Rustic Mountain Lodge Near Chefchaouen", 34940612]
+      ],
+      "meal": [
+        ["Traditional Dinner in a Blue Riad", 998244],
+        ["Chefchaouen Street Food Walk", 27999308],
+        ["Goat Cheese & Olive Oil Tasting", 30906051],
+        ["Couscous Lunch at a Medina Restaurant", 36916123],
+        ["Rooftop Dinner with Mountain Views", 50630],
+        ["Harira & Tagine Tasting", 30068444],
+        ["Moroccan Pastry & Mint Tea Ceremony", 30906051],
+        ["Family-Style Rif Mountains Meal", 36799049],
+        ["Fresh Trout Dinner from Local Springs", 998244],
+        ["Vegetarian Tagine Dinner", 998244]
+      ],
+      "activity": [
+        ["Hike to Akchour Waterfalls", 14996117],
+        ["God's Bridge Hiking Trail", 14996117],
+        ["Rif Mountains Trekking Tour", 14996117],
+        ["Chefchaouen Medina Photography Walk", 35097550],
+        ["Swimming at Ras El Maa Springs", 14996117],
+        ["Hammam & Spa in the Medina", 33279021],
+        ["Yoga Session with Mountain Views", 36895635],
+        ["Cooking Class with Market Visit", 2287528]
+      ],
+      "transfer": [
+        ["Chefchaouen Private Transfer", 241190],
+        ["Transfer to Fes", 11877391],
+        ["Transfer to Tangier", 11877391],
+        ["Luxury Chauffeur Service", 11877391],
+        ["Hotel-to-Medina Transfer", 6621125],
+        ["Group Shuttle Service", 27987052],
+        ["Scenic Rif Mountains Transfer", 37401857],
+        ["Multi-Stop Transfer Service", 15360686],
+        ["Night Transfer Service", 19068524],
+        ["Family Transfer with Car Seats", 14719525]
+      ]
+    }
+  },
+  "Essaouira": {
+    "id": "a5555555-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+    "cats": ["tour", "guided", "workshop", "stay", "meal", "activity", "transfer"],
+    "pools": {
+      "tour": [
+        ["Essaouira Medina & Ramparts Walk", 14996117],
+        ["Skala de la Kasbah Sea Bastion Tour", 18341651],
+        ["Essaouira Fishing Port Visit", 30557503],
+        ["Scala du Port Harbor Walk", 30557503],
+        ["Essaouira Beach & Atlantic Coast Walk", 30557503],
+        ["Sidi Mohammed Ben Abdallah Museum Visit", 18341651],
+        ["Essaouira Jewish Mellah Tour", 14996117],
+        ["Bab el-Marsa Gate & Harbor Tour", 18341651],
+        ["Essaouira Souks Discovery Walk", 14996117],
+        ["Ramparts & Cannon Walk", 18341651],
+        ["Essaouira Woodcraft & Thuya Quarter Walk", 32422996],
+        ["Moulay Hassan Square Tour", 19068524],
+        ["Essaouira Islands View from Ramparts", 30557503],
+        ["Medina Alleyways & Blue Doors Walk", 14996117],
+        ["Essaouira Art Galleries Walk", 28582577]
+      ],
+      "guided": [
+        ["Hidden Alleys of Essaouira Medina", 14996117],
+        ["Essaouira Fish Market & Port Discovery", 22711555],
+        ["Thuya Woodcraft Workshop Tour", 32422996],
+        ["Essaouira Food Crawl in the Medina", 27999308],
+        ["Insider Walk: Ramparts to Harbor", 18341651],
+        ["Essaouira Art & Culture Walk", 28582577],
+        ["Local Life at the Fishing Port", 30557503],
+        ["Essaouira Jewish Heritage Walk", 14996117]
+      ],
+      "workshop": [
+        ["Thuya Wood Carving Workshop", 32422996],
+        ["Essaouira Gnawa Music Workshop", 36792023],
+        ["Seafood & Moroccan Cooking Class", 2287528],
+        ["Argan Oil Cooperative Workshop", 31653073],
+        ["Essaouira Pottery Workshop", 32422996],
+        ["Sailor's Knot & Rope Workshop", 32422996],
+        ["Henna Art Workshop", 4727987],
+        ["Traditional Fishnet Making Workshop", 32422996],
+        ["Spice Blending & Seafood Tagine Workshop", 31653073]
+      ],
+      "stay": [
+        ["Riad in Essaouira Medina", 15531325],
+        ["Seaside Hotel Near the Beach", 30557503],
+        ["Boutique Riad Near the Ramparts", 15531325],
+        ["Oceanview Hotel with Terrace", 34645081],
+        ["Traditional Guesthouse in the Medina", 15531322],
+        ["Riad Near the Fishing Port", 30557503],
+        ["Beachfront Hotel on Essaouira Bay", 34940612],
+        ["Riad with Ramparts Views", 34645081]
+      ],
+      "meal": [
+        ["Fresh Seafood at the Port", 998244],
+        ["Fish Tagine Dinner in a Riad", 998244],
+        ["Essaouira Street Food Tour", 27999308],
+        ["Grilled Sardines & Calamari at Harbor", 998244],
+        ["Rooftop Dinner with Ocean Views", 50630],
+        ["Couscous Lunch at a Medina Restaurant", 36916123],
+        ["Moroccan Pastry & Mint Tea Ceremony", 30906051],
+        ["Seafood Platter at Beachfront Restaurant", 998244],
+        ["Family-Style Moroccan Home Meal", 36799049],
+        ["Harira & Fresh Catch of the Day", 30068444]
+      ],
+      "activity": [
+        ["Surf Lesson at Essaouira Beach", 36005570],
+        ["Kitesurfing at Essaouira Bay", 36005570],
+        ["Horse Riding on Essaouira Beach", 11491900],
+        ["Camel Ride on the Beach", 11491900],
+        ["Essaouira Medina Bike Tour", 13358011],
+        ["Hammam & Spa in the Medina", 33279021],
+        ["Boat Trip to Essaouira Islands", 29781323],
+        ["Yoga Session on the Beach", 36895635],
+        ["Windsurfing Course at the Bay", 36005570],
+        ["Photography Walk in the Medina", 35097550]
+      ],
+      "transfer": [
+        ["Essaouira Airport Private Transfer", 241190],
+        ["Transfer to Marrakech", 11877391],
+        ["Luxury Chauffeur Service", 11877391],
+        ["Hotel-to-Medina Transfer", 6621125],
+        ["Group Shuttle Service", 27987052],
+        ["Scenic Coastal Transfer", 37401857],
+        ["Transfer to Argan Oil Region", 37401857],
+        ["Multi-Stop Transfer Service", 15360686],
+        ["Night Transfer Service", 19068524],
+        ["Family Transfer with Car Seats", 14719525]
+      ]
+    }
+  },
+  "Merzouga": {
+    "id": "a4444444-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+    "cats": ["tour", "guided", "stay", "meal", "desert", "transfer"],
+    "pools": {
+      "tour": [
+        ["Erg Chebbi Dunes Panoramic Tour", 11491900],
+        ["Merzouga Village & Oasis Walk", 14996117],
+        ["Khamlia Village Gnawa Music Tour", 36792023],
+        ["Lake Dayet Srji Bird Watching Walk", 14996117],
+        ["Erg Chebbi Sunrise Dunes Walk", 11491900],
+        ["Merzouga Palm Grove Oasis Tour", 14996117],
+        ["Nomad Family Visit & Desert Life Tour", 14996117],
+        ["Fossil Beds & Desert Geology Tour", 18341651],
+        ["Erg Chebbi Sunset Dunes Walk", 11491900],
+        ["Berber Village Discovery Walk", 14996117],
+        ["Desert Plateau & Horizon Walk", 11491900],
+        ["Old Khettara Water System Tour", 18341651],
+        ["Sahara Desert Flora & Fauna Walk", 14996117],
+        ["Merzouga Sand Dunes Ridge Walk", 11491900],
+        ["Desert Oasis & Palm Grove Walk", 14996117]
+      ],
+      "guided": [
+        ["Hidden Dunes of Erg Chebbi", 11491900],
+        ["Khamlia Village & Gnawa Music Experience", 36792023],
+        ["Nomad Camp & Desert Life Discovery", 14996117],
+        ["Fossil Beds Guided Walk", 18341651],
+        ["Lake Dayet Srji Flamingo Watching", 14996117],
+        ["Berber Tea Ceremony with Nomads", 30906051],
+        ["Desert Oasis & Palm Grove Walk", 14996117],
+        ["Erg Chebbi Photography Walk", 35097550]
+      ],
+      "stay": [
+        ["Luxury Desert Camp at Erg Chebbi", 15531322],
+        ["Berber Tent Camp Under the Stars", 15531322],
+        ["Desert Riad in Merzouga Village", 15531325],
+        ["Boutique Desert Camp with Private Tent", 34645081],
+        ["Eco-Lodge Near the Dunes", 34940612],
+        ["Traditional Kasbah Hotel in Merzouga", 34940612],
+        ["Glamping Camp with Camel Corral", 34645081],
+        ["Desert Guesthouse with Dune Views", 15531322]
+      ],
+      "meal": [
+        ["Berber Dinner at Desert Camp", 998244],
+        ["Tagine Dinner Under the Stars", 998244],
+        ["Nomad-Style Lunch in the Oasis", 36799049],
+        ["Sand-Cooked Medfouna Bread Tasting", 2287528],
+        ["Couscous Dinner at Desert Camp", 36916123],
+        ["Moroccan Pastry & Mint Tea Ceremony", 30906051],
+        ["Harira Soup & Camel Meat Tagine", 30068444],
+        ["Sunset Dinner on the Dunes", 50630],
+        ["Breakfast with Desert Sunrise Views", 50630],
+        ["Family-Style Berber Feast", 36799049]
+      ],
+      "desert": [
+        ["Sunset Camel Trek to Erg Chebbi", 11491900],
+        ["Sunrise Camel Trek on Erg Chebbi", 11491900],
+        ["Sandboarding on Erg Chebbi Dunes", 13358011],
+        ["4x4 Desert Safari to Erg Chebbi", 13358011],
+        ["Overnight Camel Trek & Desert Camp", 15531322],
+        ["Quad Biking in the Sahara Dunes", 13358011],
+        ["Desert 4x4 Tour to Nomad Camps", 13358011],
+        ["Erg Chebbi Dune Buggy Adventure", 13358011],
+        ["Camel Caravan to Hidden Oasis", 11491900],
+        ["Stargazing Night in the Desert", 36895635],
+        ["Desert Walk to Fossil Beds", 18341651],
+        ["Sandboarding & Camel Combo Tour", 13358011]
+      ],
+      "transfer": [
+        ["Merzouga Private Transfer", 241190],
+        ["Transfer to Fes via Desert Road", 11877391],
+        ["Transfer to Marrakech via Tichka Pass", 11877391],
+        ["Luxury 4x4 Desert Transfer", 11877391],
+        ["Hotel-to-Desert Camp Transfer", 6621125],
+        ["Group Shuttle Service", 27987052],
+        ["Scenic Desert Route Transfer", 37401857],
+        ["Multi-Stop Transfer Service", 15360686],
+        ["Night Desert Transfer Service", 19068524],
+        ["Family Transfer with Car Seats", 14719525]
+      ]
+    }
+  },
+  "Dakhla": {
+    "id": "a00e00e0-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+    "cats": ["tour", "guided", "stay", "meal", "activity", "desert", "transfer"],
+    "pools": {
+      "tour": [
+        ["Dakhla Lagoon Panoramic Tour", 30557503],
+        ["Dakhla Peninsula & Atlantic Coast Walk", 30557503],
+        ["Dragon's Island Visit", 30557503],
+        ["Dakhla Old Town & Spanish Heritage Walk", 18341651],
+        ["White Dune & Lagoon Tour", 11491900],
+        ["Puerto Rico Beach Discovery", 30557503],
+        ["Dakhla Lighthouse & Headland Walk", 18341651],
+        ["Sahara Atlantic Coast Tour", 30557503],
+        ["Imlili Desert Pools Visit", 14996117],
+        ["Dakhla Bay Oyster Farm Tour", 998244],
+        ["Sebkha d'Imlili Salt Flat Walk", 14996117],
+        ["Dakhla Kite Beach Walk", 36005570],
+        ["Pointe de Dakhla Headland Tour", 30557503],
+        ["Dakhla Marina & Port Walk", 30557503],
+        ["Atlantic Sahara Desert & Coast Walk", 14996117]
+      ],
+      "guided": [
+        ["Hidden Coves of Dakhla Peninsula", 30557503],
+        ["Dakhla Lagoon Wildlife Discovery", 14996117],
+        ["Oyster Farm & Lagoon Guided Visit", 998244],
+        ["Dakhla Old Spanish Quarter Walk", 18341651],
+        ["Sahrawi Culture & Heritage Tour", 14996117],
+        ["Dakhla Fish Market Discovery", 22711555],
+        ["White Dune & Desert Coast Walk", 11491900],
+        ["Dakhla Photography Walk at Sunset", 35097550]
+      ],
+      "stay": [
+        ["Lagoon Resort with Kite Beach Access", 36005570],
+        ["Beachfront Hotel on Dakhla Bay", 30557503],
+        ["Desert-Lagoon Eco-Lodge", 34940612],
+        ["Boutique Hotel in Dakhla Town", 34940612],
+        ["Seaside Glamping on the Peninsula", 15531322],
+        ["Kitesurf Camp with Ocean Views", 36005570],
+        ["Luxury Villa on Dakhla Lagoon", 34645081],
+        ["Riad-Style Guesthouse in Old Town", 15531325]
+      ],
+      "meal": [
+        ["Fresh Oysters from Dakhla Lagoon", 998244],
+        ["Seafood Platter at Lagoon Restaurant", 998244],
+        ["Grilled Fish at Dakhla Port", 998244],
+        ["Moroccan Tagine with Ocean View", 998244],
+        ["Dakhla Street Food Walk", 27999308],
+        ["Couscous Lunch at a Seaside Restaurant", 36916123],
+        ["Moroccan Pastry & Mint Tea Ceremony", 30906051],
+        ["Sunset Dinner on the Lagoon", 50630],
+        ["Sahrawi-Style Dinner Experience", 36799049],
+        ["Oyster & Wine Tasting at the Farm", 998244]
+      ],
+      "activity": [
+        ["Kitesurfing Course at Dakhla Lagoon", 36005570],
+        ["Lagoon Boat Tour", 29781323],
+        ["Windsurfing at Dakhla Bay", 36005570],
+        ["Stand-Up Paddleboarding on the Lagoon", 36005570],
+        ["Surf Lesson at Puerto Rico Beach", 36005570],
+        ["Kayaking in Dakhla Lagoon", 29781323],
+        ["Fishing Trip in the Atlantic", 29781323],
+        ["Yoga Session on the Beach", 36895635],
+        ["Horse Riding on Dakhla Beach", 11491900],
+        ["Quad Biking on the White Dune", 13358011],
+        ["Bird Watching at the Lagoon", 14996117],
+        ["Sunset Boat Cruise on the Lagoon", 29781323]
+      ],
+      "desert": [
+        ["4x4 Tour to White Dune & Lagoon", 13358011],
+        ["Sandboarding on the White Dune", 13358011],
+        ["Camel Ride Along the Atlantic Coast", 11491900],
+        ["Quad Biking on Dakhla Desert Dunes", 13358011],
+        ["Sebkha d'Imlili Desert Salt Flat Tour", 14996117],
+        ["4x4 Sahara Coast Adventure", 13358011],
+        ["Camel Trek to Dragon's Island", 11491900],
+        ["Desert Sunset at the White Dune", 11491900]
+      ],
+      "transfer": [
+        ["Dakhla Airport Private Transfer", 241190],
+        ["Luxury Chauffeur Service", 11877391],
+        ["Hotel-to-Kite Beach Transfer", 6621125],
+        ["Group Shuttle Service", 27987052],
+        ["Scenic Coastal Transfer", 37401857],
+        ["Transfer to Lagoon & White Dune", 37401857],
+        ["Multi-Stop Transfer Service", 15360686],
+        ["Night Transfer Service", 19068524],
+        ["Family Transfer with Car Seats", 14719525],
+        ["4x4 Desert Transfer", 11877391]
+      ]
+    }
+  },
+  "Ouzoud": {
+    "id": "a06060a0-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+    "cats": ["tour", "guided", "stay", "meal", "activity", "transfer"],
+    "pools": {
+      "tour": [
+        ["Ouzoud Waterfalls Viewpoint Walk", 14996117],
+        ["Ouzoud Falls Top Panorama Tour", 14996117],
+        ["Ouzoud Cascades & Rainbow Walk", 14996117],
+        ["Olive Grove Walk Around Ouzoud", 14996117],
+        ["Barbary Macaque Habitat Walk", 14996117],
+        ["Ouzoud River Source Walk", 14996117],
+        ["Ouzoud Falls Lower Basin Tour", 14996117],
+        ["Traditional Mill Visit at Ouzoud", 18341651],
+        ["Ouzoud Plateau & Valley View Walk", 14996117],
+        ["Ouzoud Falls Suspension Bridge Walk", 14996117],
+        ["Berber Village Walk Near Ouzoud", 14996117],
+        ["Ouzoud Gorge & River Walk", 14996117],
+        ["Ouzoud Falls Cliff Path Tour", 14996117],
+        ["Ouzoud Forest & Nature Trail", 14996117],
+        ["Ouzoud Panoramic Stairway Walk", 14996117]
+      ],
+      "guided": [
+        ["Hidden Trails of Ouzoud Falls", 14996117],
+        ["Barbary Macaque Watching Guided Tour", 14996117],
+        ["Ouzoud River & Gorge Discovery", 14996117],
+        ["Olive Grove & Berber Village Walk", 14996117],
+        ["Ouzoud Photography Walk", 35097550],
+        ["Local Life in Ouzoud Village", 14996117],
+        ["Ouzoud Flora & Fauna Guided Walk", 14996117],
+        ["Sunset Walk at Ouzoud Falls", 14996117]
+      ],
+      "stay": [
+        ["Riad Near Ouzoud Waterfalls", 15531325],
+        ["Riverside Guesthouse at Ouzoud", 15531322],
+        ["Berber Lodge Near the Falls", 34940612],
+        ["Eco-Lodge in the Atlas Foothills", 34940612],
+        ["Riad with Waterfall Views", 34645081],
+        ["Traditional Guesthouse in Ouzoud Village", 15531322],
+        ["Mountain Cabin Near Ouzoud", 34940612],
+        ["Riad with Olive Grove Views", 15531325]
+      ],
+      "meal": [
+        ["Traditional Berber Dinner at a Riad", 998244],
+        ["Olive Oil Tasting & Berber Lunch", 30906051],
+        ["Tagine Dinner with Waterfall Views", 50630],
+        ["Couscous Lunch at a Village Restaurant", 36916123],
+        ["Moroccan Pastry & Mint Tea Ceremony", 30906051],
+        ["Fresh Trout from Ouzoud River", 998244],
+        ["Family-Style Berber Home Meal", 36799049],
+        ["Rooftop Dinner with Valley Views", 50630],
+        ["Harira & Tagine Tasting", 30068444],
+        ["Olive Grove Picnic Lunch", 2287524]
+      ],
+      "activity": [
+        ["Waterfall Trekking Tour at Ouzoud", 14996117],
+        ["Barbary Macaque Watching Tour", 14996117],
+        ["Swimming in Ouzoud Natural Pools", 14996117],
+        ["Ouzoud River Kayaking", 29781323],
+        ["Hammam & Spa at a Mountain Lodge", 33279021],
+        ["Olive Oil Pressing Experience", 31653073],
+        ["Horse Riding in the Atlas Foothills", 11491900],
+        ["Yoga Session Near the Waterfalls", 36895635],
+        ["Photography Walk at Ouzoud Falls", 35097550],
+        ["Cooking Class with Berber Family", 2287528]
+      ],
+      "transfer": [
+        ["Ouzoud Private Transfer from Marrakech", 241190],
+        ["Luxury Chauffeur Service", 11877391],
+        ["Hotel-to-Waterfalls Transfer", 6621125],
+        ["Group Shuttle Service", 27987052],
+        ["Scenic Atlas Mountains Transfer", 37401857],
+        ["Transfer to Marrakech", 11877391],
+        ["Multi-Stop Transfer Service", 15360686],
+        ["Night Transfer Service", 19068524],
+        ["Family Transfer with Car Seats", 14719525],
+        ["4x4 Mountain Transfer", 11877391]
+      ]
+    }
+  },
+  "Ifrane": {
+    "id": "a00f00f0-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+    "cats": ["tour", "guided", "stay", "meal", "activity", "transfer"],
+    "pools": {
+      "tour": [
+        ["Ifrane Alpine Town Walk", 14996117],
+        ["Cedar Forest of Ifrane Tour", 14996117],
+        ["Lion Stone Monument Visit", 18341651],
+        ["Ifrane National Park Walk", 14996117],
+        ["Ifrane Lake & Gardens Walk", 14996117],
+        ["Al Akhawayn University Campus Tour", 18341651],
+        ["Ifrane Park & Cascade Walk", 14996117],
+        ["Source Sidi Abdessalam Spring Visit", 14996117],
+        ["Ifrane Forest Reserve Walk", 14996117],
+        ["Ifrane Town Center & European Architecture Walk", 18341651],
+        ["Dayet Aoua Lake Tour", 14996117],
+        ["Ifrane to Azrou Cedar Forest Drive", 14996117],
+        ["Ifrane Botanical Trail Walk", 14996117],
+        ["Ifrane Ski Resort Area Walk", 14996117],
+        ["Atlas Mountain Panoramic View Walk", 14996117]
+      ],
+      "guided": [
+        ["Hidden Trails of Ifrane National Park", 14996117],
+        ["Barbary Macaque Watching in Cedar Forest", 14996117],
+        ["Ifrane Lake & Wildlife Discovery", 14996117],
+        ["Cedar Forest Photography Walk", 35097550],
+        ["Ifrane Alpine Architecture Walk", 18341651],
+        ["Dayet Aoua Bird Watching Walk", 14996117],
+        ["Atlas Mountain Foothill Walk", 14996117],
+        ["Ifrane Flora & Fauna Guided Walk", 14996117]
+      ],
+      "stay": [
+        ["Alpine Chalet in Ifrane", 34940612],
+        ["Mountain Lodge Near Cedar Forest", 34940612],
+        ["Boutique Hotel in Ifrane Town", 34940612],
+        ["Riad Near Ifrane Lake", 15531325],
+        ["Ski Resort Hotel in Ifrane", 34940612],
+        ["Traditional Guesthouse Near the Park", 15531322],
+        ["Forest Cabin in Ifrane National Park", 34940612],
+        ["Luxury Chalet with Mountain Views", 34645081]
+      ],
+      "meal": [
+        ["Traditional Moroccan Dinner at a Lodge", 998244],
+        ["Trout Dinner from Ifrane Springs", 998244],
+        ["Couscous Lunch at an Alpine Restaurant", 36916123],
+        ["Moroccan Pastry & Mint Tea Ceremony", 30906051],
+        ["Harira & Tagine Tasting", 30068444],
+        ["Family-Style Berber Meal", 36799049],
+        ["Rooftop Dinner with Mountain Views", 50630],
+        ["Fine Dining at an Alpine Lodge", 9143471],
+        ["Forest Picnic Lunch", 2287524],
+        ["Apple Orchard Lunch Experience", 2287524]
+      ],
+      "activity": [
+        ["Hiking in Ifrane National Park", 14996117],
+        ["Barbary Macaque Watching Tour", 14996117],
+        ["Cedar Forest Trekking Tour", 14996117],
+        ["Mountain Biking in the Atlas", 13358011],
+        ["Skiing at Ifrane Ski Resort", 14996117],
+        ["Horse Riding in the Cedar Forest", 11491900],
+        ["Bird Watching at Dayet Aoua Lake", 14996117],
+        ["Yoga Session in the Cedar Forest", 36895635],
+        ["Photography Walk in the National Park", 35097550],
+        ["Rock Climbing in the Atlas Mountains", 14996117]
+      ],
+      "transfer": [
+        ["Ifrane Private Transfer", 241190],
+        ["Transfer to Fes", 11877391],
+        ["Transfer to Marrakech", 11877391],
+        ["Luxury Chauffeur Service", 11877391],
+        ["Hotel-to-National Park Transfer", 6621125],
+        ["Group Shuttle Service", 27987052],
+        ["Scenic Atlas Mountains Transfer", 37401857],
+        ["Multi-Stop Transfer Service", 15360686],
+        ["Night Transfer Service", 19068524],
+        ["Family Transfer with Car Seats", 14719525]
+      ]
+    }
+  },
+  "Azrou": {
+    "id": "a01010a0-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+    "cats": ["tour", "guided", "workshop", "stay", "meal", "activity", "transfer"],
+    "pools": {
+      "tour": [
+        ["Azrou Cedar Forest Walk", 14996117],
+        ["Cèdre Gouraud Giant Cedar Tree Visit", 14996117],
+        ["Azrou Town Center & Market Walk", 22711555],
+        ["Atlas Monkey Habitat Walk", 14996117],
+        ["Azrou Waterfall & Springs Walk", 14996117],
+        ["Azrou Olive Grove Tour", 14996117],
+        ["Azrou Plateau & Valley View Walk", 14996117],
+        ["Berber Village Walk Near Azrou", 14996117],
+        ["Azrou Forest Reserve Walk", 14996117],
+        ["Azrou Traditional Market Tour", 22711555],
+        ["Middle Atlas Panoramic Drive", 14996117],
+        ["Azrou to Ifrane Forest Road Walk", 14996117],
+        ["Azrou Craft & Souk Walk", 32422996],
+        ["Azrou Nature Reserve Walk", 14996117],
+        ["Azrou Honey & Apple Orchard Tour", 14996117]
+      ],
+      "guided": [
+        ["Hidden Trails of Azrou Cedar Forest", 14996117],
+        ["Barbary Macaque Watching Guided Tour", 14996117],
+        ["Azrou Souk & Craft Discovery", 22711555],
+        ["Berber Village Life Walk Near Azrou", 14996117],
+        ["Azrou Waterfall & Nature Walk", 14996117],
+        ["Azrou Photography Walk", 35097550],
+        ["Middle Atlas Flora & Fauna Walk", 14996117],
+        ["Azrou Honey & Apple Orchard Walk", 14996117]
+      ],
+      "workshop": [
+        ["Azrou Cedar Wood Carving Workshop", 32422996],
+        ["Traditional Moroccan Cooking Class", 2287528],
+        ["Berber Carpet Weaving Workshop", 32422996],
+        ["Honey & Apple Product Workshop", 31653073],
+        ["Pottery & Ceramic Workshop", 32422996],
+        ["Henna Art Workshop", 4727987],
+        ["Olive Oil Pressing Workshop", 31653073],
+        ["Leather & Saddlebag Workshop", 32422996],
+        ["Spice Blending & Tagine Workshop", 31653073]
+      ],
+      "stay": [
+        ["Mountain Lodge Near Cedar Forest", 34940612],
+        ["Riad in Azrou Town Center", 15531325],
+        ["Forest Cabin Near Cèdre Gouraud", 34940612],
+        ["Traditional Berber Guesthouse", 15531322],
+        ["Boutique Hotel with Mountain Views", 34940612],
+        ["Eco-Lodge in the Middle Atlas", 34940612],
+        ["Riad with Forest Views", 34645081],
+        ["Rustic Cabin Near Azrou Waterfall", 15531322]
+      ],
+      "meal": [
+        ["Traditional Berber Dinner at a Lodge", 998244],
+        ["Apple & Honey Tasting Lunch", 30906051],
+        ["Trout Dinner from Mountain Springs", 998244],
+        ["Couscous Lunch at a Village Restaurant", 36916123],
+        ["Moroccan Pastry & Mint Tea Ceremony", 30906051],
+        ["Harira & Tagine Tasting", 30068444],
+        ["Family-Style Berber Home Meal", 36799049],
+        ["Rooftop Dinner with Forest Views", 50630],
+        ["Olive Grove Picnic Lunch", 2287524],
+        ["Fine Dining at a Mountain Lodge", 9143471]
+      ],
+      "activity": [
+        ["Hiking in Azrou Cedar Forest", 14996117],
+        ["Barbary Macaque Watching Tour", 14996117],
+        ["Mountain Biking in the Middle Atlas", 13358011],
+        ["Rock Climbing Near Azrou", 14996117],
+        ["Horse Riding in the Cedar Forest", 11491900],
+        ["Azrou Waterfall Trek", 14996117],
+        ["Bird Watching in the Forest Reserve", 14996117],
+        ["Yoga Session in the Cedar Forest", 36895635],
+        ["Photography Walk in the Cedar Forest", 35097550],
+        ["Olive Picking & Oil Tasting Experience", 31653073]
+      ],
+      "transfer": [
+        ["Azrou Private Transfer", 241190],
+        ["Transfer to Fes", 11877391],
+        ["Transfer to Ifrane", 11877391],
+        ["Luxury Chauffeur Service", 11877391],
+        ["Hotel-to-Forest Transfer", 6621125],
+        ["Group Shuttle Service", 27987052],
+        ["Scenic Middle Atlas Transfer", 37401857],
+        ["Multi-Stop Transfer Service", 15360686],
+        ["Night Transfer Service", 19068524],
+        ["Family Transfer with Car Seats", 14719525]
+      ]
+    }
+  },
+  "Ouarzazate": {
+    "id": "a00d00d0-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+    "cats": ["tour", "guided", "workshop", "stay", "meal", "desert", "transfer"],
+    "pools": {
+      "tour": [
+        ["Kasbah Taourirt Guided Visit", 18341651],
+        ["Atlas Film Studios Tour", 18341651],
+        ["Ouarzazate Old Kasbah Walk", 18341651],
+        ["Cinema Museum of Ouarzazate Visit", 18341651],
+        ["Ouarzazate City & Oasis Walk", 14996117],
+        ["Kasbah Taourirt Rooftop View", 18341651],
+        ["Ouarzazate Palmeraie Walk", 14996117],
+        ["Old Mellah & Jewish Quarter Walk", 14996117],
+        ["Ouarzazate Dam & Lake El Mansour Eddahbi", 14996117],
+        ["Ouarzazate Market & Souk Walk", 22711555],
+        ["Ouarzazate Kasbah District Tour", 18341651],
+        ["Fint Oasis Walk Near Ouarzazate", 14996117],
+        ["Ouarzazate Cinema City Walk", 18341651],
+        ["Ouarzazate River & Palm Grove Walk", 14996117],
+        ["Ouarzazate Panoramic Hilltop View", 18341651]
+      ],
+      "guided": [
+        ["Hidden Rooms of Kasbah Taourirt", 18341651],
+        ["Atlas Studios Behind-the-Scenes Tour", 18341651],
+        ["Ouarzazate Souk & Market Discovery", 22711555],
+        ["Fint Oasis Guided Walk", 14996117],
+        ["Ouarzazate Cinema Heritage Walk", 18341651],
+        ["Ouarzazate Food Crawl", 27999308],
+        ["Ouarzazate Photography Walk", 35097550],
+        ["Ouarzazate Old Town Discovery", 18341651]
+      ],
+      "workshop": [
+        ["Ouarzazate Cinema Prop Workshop", 32422996],
+        ["Traditional Kasbah Cooking Class", 2287528],
+        ["Berber Carpet Weaving Workshop", 32422996],
+        ["Pottery & Clay Workshop", 32422996],
+        ["Henna Art Workshop", 4727987],
+        ["Kasbah Restoration & Adobe Workshop", 32422996],
+        ["Spice Blending & Tagine Workshop", 31653073],
+        ["Leather & Saddlebag Workshop", 32422996],
+        ["Moroccan Pastry Making Class", 2287528]
+      ],
+      "stay": [
+        ["Kasbah Hotel Near Taourirt", 34940612],
+        ["Desert Oasis Riad in Ouarzazate", 15531325],
+        ["Boutique Hotel in the Old Kasbah", 34940612],
+        ["Traditional Guesthouse Near the Studios", 15531322],
+        ["Riad with Palmeraie Views", 34645081],
+        ["Cinema-Themed Hotel in Ouarzazate", 34940612],
+        ["Heritage Kasbah Guesthouse", 15531325],
+        ["Desert Lodge Near Ouarzazate", 34940612]
+      ],
+      "meal": [
+        ["Traditional Dinner in a Kasbah Riad", 998244],
+        ["Ouarzazate Street Food Walk", 27999308],
+        ["Couscous Lunch at a Kasbah Restaurant", 36916123],
+        ["Rooftop Dinner with Kasbah Views", 50630],
+        ["Moroccan Pastry & Mint Tea Ceremony", 30906051],
+        ["Harira & Tagine Tasting", 30068444],
+        ["Family-Style Berber Dinner", 36799049],
+        ["Fine Dining at a Kasbah Hotel", 9143471],
+        ["Oasis Picnic Lunch", 2287524],
+        ["Cinema Studio Themed Dinner", 50630]
+      ],
+      "desert": [
+        ["4x4 Desert Tour to Fint Oasis", 13358011],
+        ["Camel Ride at Ouarzazate Palmeraie", 11491900],
+        ["Sandboarding Near Ouarzazate Dunes", 13358011],
+        ["4x4 Sahara Desert Safari from Ouarzazate", 13358011],
+        ["Quad Biking in the Desert", 13358011],
+        ["Overnight Desert Camp Near Ouarzazate", 15531322],
+        ["Sunset Camel Trek to Fint Oasis", 11491900],
+        ["Desert 4x4 to Aït Ben Haddou", 13358011]
+      ],
+      "transfer": [
+        ["Ouarzazate Airport Private Transfer", 241190],
+        ["Transfer to Marrakech via Tichka Pass", 11877391],
+        ["Transfer to Aït Ben Haddou", 11877391],
+        ["Luxury Chauffeur Service", 11877391],
+        ["Hotel-to-Kasbah Transfer", 6621125],
+        ["Group Shuttle Service", 27987052],
+        ["Scenic Desert Route Transfer", 37401857],
+        ["Transfer to Merzouga Desert", 37401857],
+        ["Multi-Stop Transfer Service", 15360686],
+        ["Family Transfer with Car Seats", 14719525]
+      ]
+    }
+  },
+  "Tangier": {
+    "id": "a9999999-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+    "cats": ["tour", "guided", "workshop", "stay", "meal", "activity", "transfer"],
+    "pools": {
+      "tour": [
+        ["Kasbah Museum & Sultan's Palace Visit", 18341651],
+        ["Tangier Medina Walk", 14996117],
+        ["Cap Spartel Lighthouse Tour", 30557503],
+        ["Hercules Cave Visit", 18341651],
+        ["Grand Socco Square Walk", 19068524],
+        ["Petit Socco & Medina Discovery", 14996117],
+        ["Tangier American Legation Museum Visit", 18341651],
+        ["Café Hafa & Cliffside View Walk", 30557503],
+        ["Tangier Beach & Corniche Walk", 30557503],
+        ["Phoenician Tombs Visit", 18341651],
+        ["Dar el Makhzen Palace Tour", 18341651],
+        ["Tangier Kasbah Ramparts Walk", 18341651],
+        ["Old Medina & Jewish Quarter Walk", 14996117],
+        ["Cap Spartel & Atlantic-Mediterranean Meeting Point", 30557503],
+        ["Tangier Ville Port & Marina Walk", 30557503]
+      ],
+      "guided": [
+        ["Hidden Alleys of Tangier Medina", 14996117],
+        ["Tangier Literary Walk", 28582577],
+        ["Tangier Food Market Discovery", 22711555],
+        ["Cap Spartel & Hercules Cave Guided Tour", 18341651],
+        ["Tangier Nightlife & Café Walk", 19068524],
+        ["Tangier Street Food Crawl", 27999308],
+        ["Tangier Art & Culture Walk", 28582577],
+        ["Tangier Photography Walk", 35097550]
+      ],
+      "workshop": [
+        ["Tangier Cooking Class with Seafood", 2287528],
+        ["Pottery & Ceramic Workshop", 32422996],
+        ["Arabic Calligraphy Workshop", 36792023],
+        ["Moroccan Tea Ceremony Workshop", 30906051],
+        ["Henna Art Workshop", 4727987],
+        ["Tangier Painting & Art Workshop", 28582577],
+        ["Leather & Slipper Workshop", 32422996],
+        ["Spice Blending & Tagine Workshop", 31653073],
+        ["Moroccan Pastry Making Class", 2287528]
+      ],
+      "stay": [
+        ["Riad in Tangier Medina", 15531325],
+        ["Boutique Hotel Near the Kasbah", 34940612],
+        ["Seaside Hotel on the Corniche", 30557503],
+        ["Heritage Riad in Petit Socco", 15531325],
+        ["Cliffside Hotel with Ocean View", 34645081],
+        ["Modern Hotel in Tangier Ville", 34940612],
+        ["Traditional Guesthouse Near Grand Socco", 15531322],
+        ["Luxury Suite with Strait of Gibraltar View", 34645081]
+      ],
+      "meal": [
+        ["Fresh Seafood at Tangier Port", 998244],
+        ["Traditional Moroccan Dinner in a Riad", 998244],
+        ["Tangier Street Food Tour", 27999308],
+        ["Rooftop Dinner with Medina Views", 50630],
+        ["Couscous Lunch at a Medina Restaurant", 36916123],
+        ["Harira & Tagine Tasting", 30068444],
+        ["Moroccan Pastry & Mint Tea at Café Hafa", 30906051],
+        ["Fine Dining at a Tangier Brasserie", 9143471],
+        ["Family-Style Moroccan Home Meal", 36799049],
+        ["Mediterranean-Moroccan Fusion Dinner", 9143471]
+      ],
+      "activity": [
+        ["Surf Lesson at Tangier Beach", 36005570],
+        ["Hammam & Spa in the Medina", 33279021],
+        ["Tangier City Bike Tour", 13358011],
+        ["Boat Trip on the Strait of Gibraltar", 29781323],
+        ["Beach Horse Riding at Tangier Corniche", 11491900],
+        ["Yoga Session on the Beach", 36895635],
+        ["Photography Walk in the Medina", 35097550],
+        ["Kitesurfing at Cap Spartel", 36005570],
+        ["Fishing Trip in the Mediterranean", 29781323],
+        ["Sunset Sail Along the Coast", 29781323]
+      ],
+      "transfer": [
+        ["Tangier Airport Private Transfer", 241190],
+        ["Tangier Port Transfer", 10133480],
+        ["Transfer to Chefchaouen", 11877391],
+        ["Luxury Chauffeur Service", 11877391],
+        ["Hotel-to-Medina Transfer", 6621125],
+        ["Group Shuttle Service", 27987052],
+        ["Scenic Coastal Transfer", 37401857],
+        ["Transfer to Tetouan", 11877391],
+        ["Multi-Stop Transfer Service", 15360686],
+        ["Family Transfer with Car Seats", 14719525]
+      ]
+    }
+  },
+  "Agadir": {
+    "id": "a00b00b0-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+    "cats": ["tour", "guided", "workshop", "stay", "meal", "activity", "transfer"],
+    "pools": {
+      "tour": [
+        ["Agadir Beach & Corniche Walk", 30557503],
+        ["Agadir Oufella Kasbah Hilltop Visit", 18341651],
+        ["Souk El Had Market Tour", 22711555],
+        ["Agadir Marina Walk", 30557503],
+        ["Agadir Memorial & Earthquake Museum Visit", 18341651],
+        ["Agadir Bay Panoramic Tour", 30557503],
+        ["Old Agadir Kasbah Ruins Walk", 18341651],
+        ["Agadir City Center & Boulevard Walk", 19068524],
+        ["Agadir Port & Fishing Harbor Walk", 30557503],
+        ["Agadir Royal Palace Exterior Tour", 19068524],
+        ["Agadir Beachfront Promenade Walk", 30557503],
+        ["Agadir Garden & Park Walk", 19068524],
+        ["Agadir Bird Watching at the Estuary", 14996117],
+        ["Agadir Coastline Drive Tour", 30557503],
+        ["Agadir Cultural Heritage Walk", 18341651]
+      ],
+      "guided": [
+        ["Hidden Corners of Agadir Bay", 30557503],
+        ["Souk El Had Insider Walk", 22711555],
+        ["Agadir Food Market Discovery", 22711555],
+        ["Agadir Oufella Kasbah Guided Visit", 18341651],
+        ["Agadir Nightlife & Marina Walk", 19068524],
+        ["Agadir Street Food Crawl", 27999308],
+        ["Agadir Photography Walk", 35097550],
+        ["Agadir Heritage & Culture Walk", 18341651]
+      ],
+      "workshop": [
+        ["Argan Oil Cooperative Workshop", 31653073],
+        ["Moroccan Cooking Class with Seafood", 2287528],
+        ["Pottery & Ceramic Workshop", 32422996],
+        ["Henna Art Workshop", 4727987],
+        ["Spice Blending & Tagine Workshop", 31653073],
+        ["Berber Carpet Weaving Workshop", 32422996],
+        ["Moroccan Pastry Making Class", 2287528],
+        ["Aloe Vera & Cosmetic Workshop", 31653073],
+        ["Leather & Slipper Workshop", 32422996]
+      ],
+      "stay": [
+        ["Beachfront Resort on Agadir Bay", 30557503],
+        ["Boutique Hotel Near the Marina", 34940612],
+        ["Seaside Riad in Agadir", 15531325],
+        ["Luxury Resort with Ocean View", 34645081],
+        ["Modern Hotel in City Center", 34940612],
+        ["Traditional Guesthouse Near the Souk", 15531322],
+        ["Befront Hotel with Pool", 34940612],
+        ["Riad with Kasbah Hill Views", 34645081]
+      ],
+      "meal": [
+        ["Fresh Seafood at Agadir Marina", 998244],
+        ["Traditional Moroccan Dinner in a Riad", 998244],
+        ["Agadir Street Food Tour", 27999308],
+        ["Rooftop Dinner with Ocean Views", 50630],
+        ["Couscous Lunch at a Seaside Restaurant", 36916123],
+        ["Harira & Tagine Tasting", 30068444],
+        ["Moroccan Pastry & Mint Tea Ceremony", 30906051],
+        ["Fine Dining at Agadir Bay", 9143471],
+        ["Family-Style Moroccan Home Meal", 36799049],
+        ["Grilled Fish Dinner at the Port", 998244]
+      ],
+      "activity": [
+        ["Surf Lesson at Agadir Beach", 36005570],
+        ["Kitesurfing at Agadir Bay", 36005570],
+        ["Hammam & Spa at a Beachfront Resort", 33279021],
+        ["Agadir City Bike Tour", 13358011],
+        ["Beach Horse Riding on Agadir Beach", 11491900],
+        ["Boat Trip from Agadir Marina", 29781323],
+        ["Yoga Session on the Beach", 36895635],
+        ["Quad Biking on the Beach & Dunes", 13358011],
+        ["Photography Walk Along the Corniche", 35097550],
+        ["Fishing Trip in the Atlantic", 29781323]
+      ],
+      "transfer": [
+        ["Agadir Airport Private Transfer", 241190],
+        ["Transfer to Marrakech", 11877391],
+        ["Transfer to Essaouira", 11877391],
+        ["Luxury Chauffeur Service", 11877391],
+        ["Hotel-to-Beach Transfer", 6621125],
+        ["Group Shuttle Service", 27987052],
+        ["Scenic Coastal Transfer", 37401857],
+        ["Transfer to Taroudant", 11877391],
+        ["Multi-Stop Transfer Service", 15360686],
+        ["Family Transfer with Car Seats", 14719525]
+      ]
+    }
+  },
+  "Meknès": {
+    "id": "a7777777-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+    "cats": ["tour", "guided", "workshop", "stay", "meal", "activity", "transfer"],
+    "pools": {
+      "tour": [
+        ["Bab el-Mansour Gate & Place el-Hedim Tour", 18341651],
+        ["Meknès Imperial City Walk", 19068524],
+        ["Mausoleum of Moulay Ismail Visit", 18341651],
+        ["Heri es-Souani Royal Stables Visit", 18341651],
+        ["Meknès Medina Walk", 14996117],
+        ["Sahrij Souani Basin Tour", 18341651],
+        ["Volubilis Roman Ruins Tour from Meknès", 18341651],
+        ["Meknès Old Mellah Jewish Quarter Walk", 14996117],
+        ["Bab el-Khemis Gate Tour", 18341651],
+        ["Dar Jamai Museum Visit", 18341651],
+        ["Meknès Royal Palace Exterior Tour", 19068524],
+        ["Place el-Hedim & Underground Prison Visit", 18341651],
+        ["Meknès Kasbah Walk", 18341651],
+        ["Agdal Basin & Gardens Walk", 19068524],
+        ["Meknès Souks Discovery Walk", 14996117]
+      ],
+      "guided": [
+        ["Hidden Alleys of Meknès Medina", 14996117],
+        ["Meknès Souk & Market Discovery", 22711555],
+        ["Imperial Meknès Heritage Walk", 18341651],
+        ["Meknès Food Crawl", 27999308],
+        ["Moulay Idriss & Volubilis Guided Tour", 18341651],
+        ["Meknès Night Walk in the Kasbah", 19068524],
+        ["Meknès Photography Walk", 35097550],
+        ["Meknès Artisan Quarter Walk", 32422996]
+      ],
+      "workshop": [
+        ["Meknès Pottery & Zellige Workshop", 32422996],
+        ["Traditional Meknès Cooking Class", 2287528],
+        ["Olive Oil & Olive Preserves Workshop", 31653073],
+        ["Calligraphy & Illumination Workshop", 36792023],
+        ["Berber Carpet Weaving Workshop", 32422996],
+        ["Henna Art Workshop", 4727987],
+        ["Spice Blending & Tagine Workshop", 31653073],
+        ["Leather & Metalwork Workshop", 32422996],
+        ["Moroccan Pastry Making Class", 2287528]
+      ],
+      "stay": [
+        ["Riad in Meknès Medina", 15531325],
+        ["Boutique Hotel Near Bab el-Mansour", 34940612],
+        ["Heritage Riad in the Kasbah", 15531325],
+        ["Traditional Guesthouse Near Place el-Hedim", 15531322],
+        ["Modern Hotel in Meknès City Center", 34940612],
+        ["Riad with Imperial City Views", 34645081],
+        ["Andalusian-Style Riad with Courtyard", 15531322],
+        ["Luxury Suite Near the Royal Palace", 34645081]
+      ],
+      "meal": [
+        ["Traditional Meknès Dinner in a Riad", 998244],
+        ["Meknès Street Food Tour", 27999308],
+        ["Olive Oil & Olive Tasting Lunch", 30906051],
+        ["Couscous Lunch at a Traditional Restaurant", 36916123],
+        ["Rooftop Dinner with Kasbah Views", 50630],
+        ["Harira & Tagine Tasting", 30068444],
+        ["Moroccan Pastry & Mint Tea Ceremony", 30906051],
+        ["Fine Dining at a Meknès Riad", 9143471],
+        ["Family-Style Moroccan Home Meal", 36799049],
+        ["Mechoui & Olive Platter Dinner", 30068444]
+      ],
+      "activity": [
+        ["Hammam & Spa in the Medina", 33279021],
+        ["Meknès City Bike Tour", 13358011],
+        ["Meknès Medina Photography Walk", 35097550],
+        ["Cooking Class with Market Visit", 2287528],
+        ["Horse Carriage Ride Around the Kasbah", 11491900],
+        ["Yoga Session at a Riad", 36895635],
+        ["Olive Grove Walk & Tasting", 31653073],
+        ["Traditional Music & Dance Performance", 36792023]
+      ],
+      "transfer": [
+        ["Meknès Private Transfer", 241190],
+        ["Transfer to Fes", 11877391],
+        ["Transfer to Volubilis", 11877391],
+        ["Luxury Chauffeur Service", 11877391],
+        ["Train Station Transfer", 10133480],
+        ["Hotel-to-Medina Transfer", 6621125],
+        ["Group Shuttle Service", 27987052],
+        ["Scenic Transfer to Moulay Idriss", 37401857],
+        ["Multi-Stop Transfer Service", 15360686],
+        ["Family Transfer with Car Seats", 14719525]
+      ]
+    }
+  },
+  "El Jadida": {
+    "id": "a02020a0-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+    "cats": ["tour", "guided", "workshop", "stay", "meal", "activity", "transfer"],
+    "pools": {
+      "tour": [
+        ["Portuguese Cistern of El Jadida Visit", 18341651],
+        ["El Jadida Portuguese Fortified City Walk", 18341651],
+        ["Mazagan Fortress & Ramparts Tour", 18341651],
+        ["El Jadida Beach & Corniche Walk", 30557503],
+        ["Sidi Bouafi Lighthouse Visit", 30557503],
+        ["El Jadida Old Portuguese Quarter Walk", 18341651],
+        ["Church of the Assumption Visit", 18341651],
+        ["El Jadida Fishing Port Walk", 30557503],
+        ["Mazagan Beach Resort Area Walk", 30557503],
+        ["El Jadida Medina & Market Walk", 14996117],
+        ["Bab el-Sebaa Gate Tour", 18341651],
+        ["El Jadida Ramparts & Sea Wall Walk", 18341651],
+        ["Sidi Bouzid Beach & Cliff Walk", 30557503],
+        ["El Jadida Old Cistern & Underground Tour", 18341651],
+        ["El Jadida Cultural Heritage Walk", 18341651]
+      ],
+      "guided": [
+        ["Hidden Rooms of the Portuguese Cistern", 18341651],
+        ["El Jadida Food Market Discovery", 22711555],
+        ["Mazagan Fortress Insider Walk", 18341651],
+        ["El Jadida Street Food Crawl", 27999308],
+        ["El Jadida Nightlife & Beach Walk", 19068524],
+        ["Portuguese Heritage Walk in El Jadida", 18341651],
+        ["El Jadida Photography Walk", 35097550],
+        ["El Jadida Fishing Port Discovery", 30557503]
+      ],
+      "workshop": [
+        ["Portuguese-Moroccan Fusion Cooking Class", 2287528],
+        ["Pottery & Ceramic Workshop", 32422996],
+        ["Moroccan Pastry Making Class", 2287528],
+        ["Henna Art Workshop", 4727987],
+        ["Spice Blending & Tagine Workshop", 31653073],
+        ["Fishnet & Rope Workshop", 32422996],
+        ["Calligraphy Workshop", 36792023],
+        ["Leather & Slipper Workshop", 32422996]
+      ],
+      "stay": [
+        ["Riad in the Portuguese Quarter", 15531325],
+        ["Beachfront Hotel on El Jadida Beach", 30557503],
+        ["Boutique Hotel Near the Cistern", 34940612],
+        ["Seaside Resort at Mazagan", 34940612],
+        ["Traditional Guesthouse in the Medina", 15531322],
+        ["Luxury Hotel with Ocean View", 34645081],
+        ["Heritage Riad in the Fortress", 15531325],
+        ["Modern Hotel Near the Corniche", 34940612]
+      ],
+      "meal": [
+        ["Fresh Seafood at El Jadida Port", 998244],
+        ["Traditional Moroccan Dinner in a Riad", 998244],
+        ["El Jadida Street Food Tour", 27999308],
+        ["Rooftop Dinner with Ocean Views", 50630],
+        ["Couscous Lunch at a Seaside Restaurant", 36916123],
+        ["Harira & Tagine Tasting", 30068444],
+        ["Moroccan Pastry & Mint Tea Ceremony", 30906051],
+        ["Fine Dining at a Mazagan Resort", 9143471],
+        ["Family-Style Moroccan Home Meal", 36799049],
+        ["Grilled Fish Dinner on the Corniche", 998244]
+      ],
+      "activity": [
+        ["Surf Lesson at El Jadida Beach", 36005570],
+        ["Hammam & Spa in the Medina", 33279021],
+        ["El Jadida City Bike Tour", 13358011],
+        ["Beach Horse Riding on El Jadida Beach", 11491900],
+        ["Boat Trip from El Jadida Port", 29781323],
+        ["Yoga Session on the Beach", 36895635],
+        ["Photography Walk in the Portuguese Quarter", 35097550],
+        ["Kitesurfing at Sidi Bouzid Beach", 36005570],
+        ["Fishing Trip in the Atlantic", 29781323],
+        ["Swimming at Mazagan Beach", 30557503]
+      ],
+      "transfer": [
+        ["El Jadida Private Transfer", 241190],
+        ["Transfer to Casablanca", 11877391],
+        ["Transfer to Marrakech", 11877391],
+        ["Luxury Chauffeur Service", 11877391],
+        ["Hotel-to-Medina Transfer", 6621125],
+        ["Group Shuttle Service", 27987052],
+        ["Scenic Coastal Transfer", 37401857],
+        ["Multi-Stop Transfer Service", 15360686],
+        ["Night Transfer Service", 19068524],
+        ["Family Transfer with Car Seats", 14719525]
+      ]
+    }
+  },
+  "Asilah": {
+    "id": "a03030a0-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+    "cats": ["tour", "guided", "workshop", "stay", "meal", "activity", "transfer"],
+    "pools": {
+      "tour": [
+        ["Asilah Medina & Ramparts Walk", 14996117],
+        ["Asilah Street Art & Murals Tour", 28582577],
+        ["Bab el-Homar Gate & Medina Tour", 18341651],
+        ["Asilah Beach & Corniche Walk", 30557503],
+        ["Medina Walls & Atlantic View Walk", 18341651],
+        ["Asilah Portuguese Ramparts Tour", 18341651],
+        ["Place de la Medina & Center Walk", 19068524],
+        ["Asilah Art Festival Murals Walk", 28582577],
+        ["Bab el-Kasbah Gate Tour", 18341651],
+        ["Asilah Fishing Port Walk", 30557503],
+        ["Asilah Cultural Center Visit", 18341651],
+        ["Asilah Old Town Alleyways Walk", 14996117],
+        ["Asilah Panoramic Rampart Walk", 18341651],
+        ["Asilah Beachfront Promenade Walk", 30557503],
+        ["Asilah Heritage & Art Walk", 28582577]
+      ],
+      "guided": [
+        ["Hidden Alleys of Asilah Medina", 14996117],
+        ["Asilah Street Art Discovery Walk", 28582577],
+        ["Asilah Food Market & Souk Walk", 22711555],
+        ["Asilah Photography Walk", 35097550],
+        ["Asilah Nightlife & Café Walk", 19068524],
+        ["Asilah Ramparts & Ocean Walk", 18341651],
+        ["Asilah Art & Culture Walk", 28582577],
+        ["Local Life in Asilah Fishing Port", 30557503]
+      ],
+      "workshop": [
+        ["Asilah Street Art & Mural Workshop", 28582577],
+        ["Traditional Moroccan Cooking Class", 2287528],
+        ["Pottery & Ceramic Workshop", 32422996],
+        ["Henna Art Workshop", 4727987],
+        ["Calligraphy & Painting Workshop", 36792023],
+        ["Spice Blending & Tagine Workshop", 31653073],
+        ["Moroccan Pastry Making Class", 2287528],
+        ["Leather & Slipper Workshop", 32422996],
+        ["Fishnet & Rope Workshop", 32422996]
+      ],
+      "stay": [
+        ["Riad in Asilah Medina", 15531325],
+        ["Seaside Hotel on the Corniche", 30557503],
+        ["Boutique Riad Near the Ramparts", 15531325],
+        ["Oceanview Hotel with Terrace", 34645081],
+        ["Traditional Guesthouse in the Medina", 15531322],
+        ["Art-Themed Hotel in Old Town", 34940612],
+        ["Beachfront Guesthouse Near Asilah Beach", 30557503],
+        ["Heritage Riad with Ocean Views", 34645081]
+      ],
+      "meal": [
+        ["Fresh Seafood at Asilah Port", 998244],
+        ["Traditional Moroccan Dinner in a Riad", 998244],
+        ["Asilah Street Food Tour", 27999308],
+        ["Rooftop Dinner with Ocean Views", 50630],
+        ["Couscous Lunch at a Medina Restaurant", 36916123],
+        ["Harira & Tagine Tasting", 30068444],
+        ["Moroccan Pastry & Mint Tea Ceremony", 30906051],
+        ["Fine Dining at an Asilah Riad", 9143471],
+        ["Family-Style Moroccan Home Meal", 36799049],
+        ["Grilled Fish Dinner on the Corniche", 998244]
+      ],
+      "activity": [
+        ["Surf Lesson at Asilah Beach", 36005570],
+        ["Hammam & Spa in the Medina", 33279021],
+        ["Asilah Medina Bike Tour", 13358011],
+        ["Beach Horse Riding on Asilah Beach", 11491900],
+        ["Boat Trip from Asilah Port", 29781323],
+        ["Yoga Session on the Beach", 36895635],
+        ["Photography Walk in the Medina", 35097550],
+        ["Kitesurfing at Asilah Beach", 36005570],
+        ["Fishing Trip in the Atlantic", 29781323],
+        ["Swimming at Asilah Beach", 30557503]
+      ],
+      "transfer": [
+        ["Asilah Private Transfer", 241190],
+        ["Transfer to Tangier", 11877391],
+        ["Transfer to Chefchaouen", 11877391],
+        ["Luxury Chauffeur Service", 11877391],
+        ["Hotel-to-Medina Transfer", 6621125],
+        ["Group Shuttle Service", 27987052],
+        ["Scenic Coastal Transfer", 37401857],
+        ["Multi-Stop Transfer Service", 15360686],
+        ["Night Transfer Service", 19068524],
+        ["Family Transfer with Car Seats", 14719525]
+      ]
+    }
+  },
+  "Taroudant": {
+    "id": "a00c00c0-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+    "cats": ["tour", "guided", "workshop", "stay", "meal", "activity", "transfer"],
+    "pools": {
+      "tour": [
+        ["Taroudant City Walls & Ramparts Walk", 18341651],
+        ["Taroudant Medina & Souk Tour", 14996117],
+        ["Assarag Square Walk", 19068524],
+        ["Taliouine Saffron Region Tour from Taroudant", 14996117],
+        ["Taroudant Kasbah Visit", 18341651],
+        ["Bab Targount Gate Tour", 18341651],
+        ["Taroudant Palmeraie Walk", 14996117],
+        ["Taroudant Old Mellah Walk", 14996117],
+        ["Bab Oulad Bounouna Gate Tour", 18341651],
+        ["Taroudant Souk El Had Market Walk", 22711555],
+        ["Taroudant City Center & Square Walk", 19068524],
+        ["Taroudant Ramparts & Bastion Walk", 18341651],
+        ["Taroudant Craft District Walk", 32422996],
+        ["Taroudant Olive Grove & Farm Walk", 14996117],
+        ["Taroudant Panoramic Rampart Walk", 18341651]
+      ],
+      "guided": [
+        ["Hidden Alleys of Taroudant Medina", 14996117],
+        ["Taroudant Souk Discovery Walk", 22711555],
+        ["Taroudant Artisan Quarter Walk", 32422996],
+        ["Taroudant Food Crawl", 27999308],
+        ["Taroudant Photography Walk", 35097550],
+        ["Saffron Region Guided Walk", 14996117],
+        ["Local Life in Taroudant Old Town", 14996117],
+        ["Taroudant Ramparts Guided Walk", 18341651]
+      ],
+      "workshop": [
+        ["Taroudant Silver Jewelry Workshop", 32422996],
+        ["Traditional Moroccan Cooking Class", 2287528],
+        ["Berber Carpet Weaving Workshop", 32422996],
+        ["Saffron & Spice Blending Workshop", 31653073],
+        ["Pottery & Ceramic Workshop", 32422996],
+        ["Henna Art Workshop", 4727987],
+        ["Leather & Saddlebag Workshop", 32422996],
+        ["Moroccan Pastry Making Class", 2287528],
+        ["Argan Oil & Cosmetic Workshop", 31653073]
+      ],
+      "stay": [
+        ["Riad in Taroudant Medina", 15531325],
+        ["Traditional Guesthouse Near Assarag Square", 15531322],
+        ["Boutique Riad Near the Ramparts", 15531325],
+        ["Kasbah Hotel in Taroudant", 34940612],
+        ["Riad with Palmeraie Views", 34645081],
+        ["Heritage Guesthouse in the Old Town", 15531322],
+        ["Luxury Riad with Courtyard", 34645081],
+        ["Eco-Lodge Near the Saffron Region", 34940612]
+      ],
+      "meal": [
+        ["Traditional Taroudant Dinner in a Riad", 998244],
+        ["Taroudant Street Food Tour", 27999308],
+        ["Saffron-Infused Lunch Experience", 31653073],
+        ["Couscous Lunch at a Traditional Restaurant", 36916123],
+        ["Rooftop Dinner with Rampart Views", 50630],
+        ["Harira & Tagine Tasting", 30068444],
+        ["Moroccan Pastry & Mint Tea Ceremony", 30906051],
+        ["Fine Dining at a Taroudant Riad", 9143471],
+        ["Family-Style Berber Home Meal", 36799049],
+        ["Olive Grove Picnic Lunch", 2287524]
+      ],
+      "activity": [
+        ["Hammam & Spa in the Medina", 33279021],
+        ["Taroudant City Bike Tour", 13358011],
+        ["Horse Carriage Ride Around the Ramparts", 11491900],
+        ["Cooking Class with Market Visit", 2287528],
+        ["Taroudant Photography Walk", 35097550],
+        ["Yoga Session at a Riad", 36895635],
+        ["Saffron Farm Visit & Tasting", 31653073],
+        ["Olive Grove Walk & Tasting", 31653073],
+        ["Pottery & Craft Quarter Visit", 32422996],
+        ["Traditional Music Performance", 36792023]
+      ],
+      "transfer": [
+        ["Taroudant Private Transfer", 241190],
+        ["Transfer to Agadir", 11877391],
+        ["Transfer to Marrakech", 11877391],
+        ["Luxury Chauffeur Service", 11877391],
+        ["Hotel-to-Medina Transfer", 6621125],
+        ["Group Shuttle Service", 27987052],
+        ["Scenic Anti-Atlas Transfer", 37401857],
+        ["Transfer to Taliouine Saffron Region", 37401857],
+        ["Multi-Stop Transfer Service", 15360686],
+        ["Family Transfer with Car Seats", 14719525]
+      ]
+    }
+  },
+  "Ourika Valley": {
+    "id": "a08080a0-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+    "cats": ["tour", "guided", "workshop", "stay", "meal", "activity", "transfer"],
+    "pools": {
+      "tour": [
+        ["Ourika Valley Scenic Drive Tour", 14996117],
+        ["Setti Fatma Waterfalls Walk", 14996117],
+        ["Berber Village of Aghbalou Walk", 14996117],
+        ["Ourika River & Gorge Walk", 14996117],
+        ["Ourika Valley Botanical Garden Visit", 14996117],
+        ["Berber House Museum Visit", 18341651],
+        ["Ourika Valley Terrace Farm Walk", 14996117],
+        ["Tnine Ourika Village Market Walk", 22711555],
+        ["Ourika Valley Panoramic View Walk", 14996117],
+        ["Setti Fatma Village Walk", 14996117],
+        ["Ourika Valley Saffron & Herb Farm Walk", 14996117],
+        ["Aghbalou Waterfall Walk", 14996117],
+        ["Ourika Valley Atlas Mountain View Walk", 14996117],
+        ["Berber Village of Timalizden Walk", 14996117],
+        ["Ourika Valley River Crossing Walk", 14996117]
+      ],
+      "guided": [
+        ["Hidden Trails of Setti Fatma", 14996117],
+        ["Berber Village Life Discovery Walk", 14996117],
+        ["Ourika Valley Flora & Fauna Walk", 14996117],
+        ["Ourika Valley Photography Walk", 35097550],
+        ["Ourika Valley Food & Market Walk", 22711555],
+        ["Traditional Berber House Guided Visit", 18341651],
+        ["Ourika River Gorge Guided Walk", 14996117],
+        ["Atlas Mountain Foothill Walk", 14996117]
+      ],
+      "workshop": [
+        ["Berber Cooking Class in Ourika Valley", 2287528],
+        ["Argan Oil Pressing Workshop", 31653073],
+        ["Berber Carpet Weaving Workshop", 32422996],
+        ["Traditional Bread Baking in Berber Oven", 2287528],
+        ["Pottery & Clay Workshop", 32422996],
+        ["Henna Art Workshop", 4727987],
+        ["Spice & Herb Blending Workshop", 31653073],
+        ["Saffron & Mint Tea Workshop", 31653073],
+        ["Leather & Saddlebag Workshop", 32422996]
+      ],
+      "stay": [
+        ["Mountain Lodge in Ourika Valley", 34940612],
+        ["Berber Guesthouse in Setti Fatma", 15531322],
+        ["Riad Near Ourika River", 15531325],
+        ["Eco-Lodge in the Atlas Foothills", 34940612],
+        ["Traditional Berber House Stay", 15531322],
+        ["Boutique Lodge with Mountain Views", 34645081],
+        ["Riad with River Views", 34645081],
+        ["Rustic Cabin Near the Waterfalls", 34940612]
+      ],
+      "meal": [
+        ["Traditional Berber Lunch in a Village", 36799049],
+        ["Tagine Dinner at a Mountain Lodge", 998244],
+        ["Ourika Valley Riverside Picnic", 2287524],
+        ["Couscous Lunch at a Berber Guesthouse", 36916123],
+        ["Moroccan Pastry & Mint Tea Ceremony", 30906051],
+        ["Harira & Tagine Tasting", 30068444],
+        ["Family-Style Berber Home Meal", 36799049],
+        ["Rooftop Dinner with Atlas Mountain Views", 50630],
+        ["Farm-to-Table Valley Lunch", 2287524],
+        ["Fresh Trout from Ourika River", 998244]
+      ],
+      "activity": [
+        ["Hiking to Setti Fatma Waterfalls", 14996117],
+        ["Ourika Valley Trekking Tour", 14996117],
+        ["Swimming in Ourika Natural Pools", 14996117],
+        ["Horse Riding in the Atlas Foothills", 11491900],
+        ["Mountain Biking in Ourika Valley", 13358011],
+        ["Rock Climbing in the Atlas Mountains", 14996117],
+        ["Yoga Session with Mountain Views", 36895635],
+        ["Photography Walk in the Valley", 35097550],
+        ["Cooking Class with Berber Family", 2287528],
+        ["Argan Oil Cooperative Visit", 31653073]
+      ],
+      "transfer": [
+        ["Ourika Valley Private Transfer from Marrakech", 241190],
+        ["Luxury Chauffeur Service", 11877391],
+        ["Hotel-to-Valley Transfer", 6621125],
+        ["Group Shuttle Service", 27987052],
+        ["Scenic Atlas Mountains Transfer", 37401857],
+        ["Transfer to Setti Fatma Waterfalls", 37401857],
+        ["Multi-Stop Transfer Service", 15360686],
+        ["Night Transfer Service", 19068524],
+        ["Family Transfer with Car Seats", 14719525],
+        ["4x4 Mountain Transfer", 11877391]
+      ]
+    }
+  },
+  "Aït Ben Haddou": {
+    "id": "a09090a0-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+    "cats": ["tour", "guided", "stay", "meal", "desert", "transfer"],
+    "pools": {
+      "tour": [
+        ["Aït Ben Haddou Kasbah Guided Visit", 18341651],
+        ["Aït Ben Haddou Ksar Walk", 18341651],
+        ["Climb to the Kasbah Panoramic Viewpoint", 18341651],
+        ["Aït Ben Haddou River Crossing Walk", 14996117],
+        ["Old Kasbah Rooftop Walk", 18341651],
+        ["Aït Ben Haddou Film Location Tour", 18341651],
+        ["Granary at the Summit Visit", 18341651],
+        ["Aït Ben Haddou Old Bridge Walk", 14996117],
+        ["Surrounding Village & Oasis Walk", 14996117],
+        ["Aït Ben Haddou Mud-Brick Architecture Walk", 18341651],
+        ["Aït Ben Haddou Hilltop Fortified Granary Walk", 18341651],
+        ["Aït Ben Haddou Artisan Shops Walk", 32422996],
+        ["Aït Ben Haddou Riverbank Walk", 14996117],
+        ["Aït Ben Haddou Panoramic Hill Walk", 18341651],
+        ["Aït Ben Haddou UNESCO Heritage Walk", 18341651]
+      ],
+      "guided": [
+        ["Hidden Rooms of Aït Ben Haddou Kasbah", 18341651],
+        ["Aït Ben Haddou Cinema Heritage Walk", 18341651],
+        ["Aït Ben Haddou Photography Walk", 35097550],
+        ["Berber Architecture Guided Walk", 18341651],
+        ["Aït Ben Haddou Oasis & River Walk", 14996117],
+        ["Local Life in Aït Ben Haddou Village", 14996117],
+        ["Aït Ben Haddou Artisan Walk", 32422996],
+        ["Sunset Walk on the Kasbah Hill", 18341651]
+      ],
+      "stay": [
+        ["Kasbah Hotel Near Aït Ben Haddou", 34940612],
+        ["Traditional Guesthouse in the Ksar", 15531322],
+        ["Desert Riad Near the Kasbah", 15531325],
+        ["Boutique Kasbah with Mountain Views", 34645081],
+        ["Heritage Guesthouse in the Old Village", 15531322],
+        ["Riad Near the River Crossing", 15531325],
+        ["Luxury Kasbah Hotel with Rooftop", 34645081],
+        ["Eco-Lodge Near the Oasis", 34940612]
+      ],
+      "meal": [
+        ["Traditional Berber Dinner at a Kasbah", 998244],
+        ["Tagine Dinner with Kasbah Views", 50630],
+        ["Couscous Lunch at a Village Restaurant", 36916123],
+        ["Moroccan Pastry & Mint Tea Ceremony", 30906051],
+        ["Harira & Tagine Tasting", 30068444],
+        ["Family-Style Berber Home Meal", 36799049],
+        ["Rooftop Dinner with Valley Views", 50630],
+        ["Oasis Picnic Lunch", 2287524],
+        ["Sunset Dinner on the Kasbah Hill", 50630],
+        ["Berber Pizza & Mint Tea Tasting", 2287528]
+      ],
+      "desert": [
+        ["Camel Trek Around Aït Ben Haddou", 11491900],
+        ["4x4 Desert Tour to Surrounding Kasbahs", 13358011],
+        ["Sandboarding Near Aït Ben Haddou", 13358011],
+        ["Quad Biking in the Desert Valley", 13358011],
+        ["Sunset Camel Ride to the Kasbah Viewpoint", 11491900],
+        ["4x4 Sahara Drive from Aït Ben Haddou", 13358011],
+        ["Desert Walk to Nearby Oases", 14996117],
+        ["Overnight Desert Camp Near Aït Ben Haddou", 15531322]
+      ],
+      "transfer": [
+        ["Aït Ben Haddou Private Transfer", 241190],
+        ["Transfer to Ouarzazate", 11877391],
+        ["Transfer to Marrakech via Tichka Pass", 11877391],
+        ["Luxury Chauffeur Service", 11877391],
+        ["Hotel-to-Kasbah Transfer", 6621125],
+        ["Group Shuttle Service", 27987052],
+        ["Scenic Desert Route Transfer", 37401857],
+        ["Transfer to Dades Valley", 37401857],
+        ["Multi-Stop Transfer Service", 15360686],
+        ["Family Transfer with Car Seats", 14719525]
+      ]
+    }
+  },
+  "Tinghir": {
+    "id": "a0a0a0a0-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+    "cats": ["tour", "guided", "stay", "meal", "activity", "desert", "transfer"],
+    "pools": {
+      "tour": [
+        ["Todra Gorge Walk", 14996117],
+        ["Todra Palm Grove & Oasis Walk", 14996117],
+        ["Tinghir Old Medina Walk", 14996117],
+        ["Todra River & Canyon Walk", 14996117],
+        ["Tinghir Jewish Quarter Walk", 14996117],
+        ["Todra Gorge Cliff Base Walk", 14996117],
+        ["Tinghir Kasbah Visit", 18341651],
+        ["Todra Gorge Panoramic View Walk", 14996117],
+        ["Tinghir Palmeraie & Farm Walk", 14996117],
+        ["Todra Gorge Rock Formation Walk", 14996117],
+        ["Tinghir Old Town & Market Walk", 22711555],
+        ["Todra Gorge Upper Canyon Walk", 14996117],
+        ["Tinghir Surrounding Village Walk", 14996117],
+        ["Todra Gorge Lower Canyon Walk", 14996117],
+        ["Tinghir Olive Grove & Spring Walk", 14996117]
+      ],
+      "guided": [
+        ["Hidden Trails of Todra Gorge", 14996117],
+        ["Tinghir Palm Grove Discovery Walk", 14996117],
+        ["Tinghir Old Medina Guided Walk", 14996117],
+        ["Todra Gorge Photography Walk", 35097550],
+        ["Tinghir Food & Market Walk", 22711555],
+        ["Todra Canyon Geology Walk", 14996117],
+        ["Local Life in Tinghir Village", 14996117],
+        ["Tinghir Jewish Heritage Walk", 14996117]
+      ],
+      "stay": [
+        ["Lodge Near Todra Gorge", 34940612],
+        ["Riad in Tinghir Old Town", 15531325],
+        ["Traditional Guesthouse in the Oasis", 15531322],
+        ["Boutique Hotel with Gorge Views", 34645081],
+        ["Eco-Lodge in the Palm Grove", 34940612],
+        ["Kasbah Hotel Near Tinghir", 34940612],
+        ["Riad with Palmeraie Views", 34645081],
+        ["Desert Lodge Near Todra Gorge", 34940612]
+      ],
+      "meal": [
+        ["Traditional Berber Dinner at a Lodge", 998244],
+        ["Tagine Dinner with Gorge Views", 50630],
+        ["Couscous Lunch at a Village Restaurant", 36916123],
+        ["Moroccan Pastry & Mint Tea Ceremony", 30906051],
+        ["Harira & Tagine Tasting", 30068444],
+        ["Family-Style Berber Home Meal", 36799049],
+        ["Rooftop Dinner with Palm Grove Views", 50630],
+        ["Oasis Picnic Lunch", 2287524],
+        ["Fresh Date & Milk Tasting", 30906051],
+        ["Berber Pizza & Salad Lunch", 2287528]
+      ],
+      "activity": [
+        ["Rock Climbing at Todra Gorge", 14996117],
+        ["Hiking Through Todra Gorge", 14996117],
+        ["Tinghir Palm Grove Trek", 14996117],
+        ["Mountain Biking in Todra Canyon", 13358011],
+        ["Horse Riding in the Oasis", 11491900],
+        ["Swimming in Todra River Pools", 14996117],
+        ["Yoga Session in the Gorge", 36895635],
+        ["Photography Walk in Todra Gorge", 35097550],
+        ["Todra Gorge Via Ferrata", 14996117],
+        ["Cooking Class with Berber Family", 2287528]
+      ],
+      "desert": [
+        ["4x4 Desert Tour from Tinghir", 13358011],
+        ["Camel Ride Through Todra Palm Grove", 11491900],
+        ["Sandboarding Near Tinghir Dunes", 13358011],
+        ["Quad Biking in the Desert Valley", 13358011],
+        ["4x4 Sahara Drive to Merzouga", 13358011],
+        ["Sunset Camel Trek to Desert Viewpoint", 11491900],
+        ["Desert Walk to Nearby Oases", 14996117],
+        ["Overnight Desert Camp Near Tinghir", 15531322]
+      ],
+      "transfer": [
+        ["Tinghir Private Transfer", 241190],
+        ["Transfer to Merzouga", 11877391],
+        ["Transfer to Ouarzazate", 11877391],
+        ["Luxury Chauffeur Service", 11877391],
+        ["Hotel-to-Gorge Transfer", 6621125],
+        ["Group Shuttle Service", 27987052],
+        ["Scenic Desert Route Transfer", 37401857],
+        ["Transfer to Dades Valley", 37401857],
+        ["Multi-Stop Transfer Service", 15360686],
+        ["Family Transfer with Car Seats", 14719525]
+      ]
+    }
+  },
+  "Dades Valley": {
+    "id": "a07070a0-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+    "cats": ["tour", "guided", "stay", "meal", "activity", "desert", "transfer"],
+    "pools": {
+      "tour": [
+        ["Dades Gorge Walk", 14996117],
+        ["Dades Valley Scenic Drive Tour", 14996117],
+        ["Monkey Finger Rock Formations Walk", 14996117],
+        ["Dades Palm Grove & Oasis Walk", 14996117],
+        ["Dades Valley Berber Village Walk", 14996117],
+        ["Dades Gorge Panoramic View Walk", 14996117],
+        ["Dades River & Canyon Walk", 14996117],
+        ["Dades Valley Kasbah Visit", 18341651],
+        ["Dades Valley Road of a Thousand Kasbahs Drive", 14996117],
+        ["Dades Valley Rose Valley Tour", 14996117],
+        ["Dades Gorge Cliff Walk", 14996117],
+        ["Dades Valley Terrace Farm Walk", 14996117],
+        ["Dades Gorge Upper Canyon Walk", 14996117],
+        ["Dades Valley Old Kasbah Walk", 18341651],
+        ["Dades Valley Panoramic View Walk", 14996117]
+      ],
+      "guided": [
+        ["Hidden Trails of Dades Gorge", 14996117],
+        ["Dades Valley Berber Village Walk", 14996117],
+        ["Monkey Finger Rocks Guided Walk", 14996117],
+        ["Dades Valley Photography Walk", 35097550],
+        ["Dades Palm Grove Discovery Walk", 14996117],
+        ["Dades Valley Food & Market Walk", 22711555],
+        ["Dades Gorge Geology Walk", 14996117],
+        ["Rose Valley Guided Walk from Dades", 14996117]
+      ],
+      "stay": [
+        ["Lodge Near Dades Gorge", 34940612],
+        ["Kasbah Hotel in Dades Valley", 34940612],
+        ["Traditional Guesthouse in the Oasis", 15531322],
+        ["Boutique Hotel with Gorge Views", 34645081],
+        ["Eco-Lodge in the Palm Grove", 34940612],
+        ["Riad Near Dades River", 15531325],
+        ["Luxury Kasbah with Valley Views", 34645081],
+        ["Rustic Cabin Near the Gorge", 34940612]
+      ],
+      "meal": [
+        ["Traditional Berber Dinner at a Lodge", 998244],
+        ["Tagine Dinner with Gorge Views", 50630],
+        ["Couscous Lunch at a Village Restaurant", 36916123],
+        ["Moroccan Pastry & Mint Tea Ceremony", 30906051],
+        ["Harira & Tagine Tasting", 30068444],
+        ["Family-Style Berber Home Meal", 36799049],
+        ["Rooftop Dinner with Valley Views", 50630],
+        ["Oasis Picnic Lunch", 2287524],
+        ["Rose-Flavored Dinner Experience", 31653073],
+        ["Berber Pizza & Mint Tea Tasting", 2287528]
+      ],
+      "activity": [
+        ["Hiking Through Dades Gorge", 14996117],
+        ["Rock Climbing at Dades Gorge", 14996117],
+        ["Dades Valley Trekking Tour", 14996117],
+        ["Mountain Biking in Dades Canyon", 13358011],
+        ["Horse Riding in the Valley", 11491900],
+        ["Swimming in Dades River Pools", 14996117],
+        ["Yoga Session in the Gorge", 36895635],
+        ["Photography Walk in Dades Valley", 35097550],
+        ["Monkey Finger Rocks Hiking Tour", 14996117],
+        ["Cooking Class with Berber Family", 2287528]
+      ],
+      "desert": [
+        ["4x4 Desert Tour from Dades Valley", 13358011],
+        ["Camel Ride Through Dades Palm Grove", 11491900],
+        ["Sandboarding Near Dades Dunes", 13358011],
+        ["Quad Biking in the Desert Valley", 13358011],
+        ["4x4 Sahara Drive to Tinghir", 13358011],
+        ["Sunset Camel Trek to Valley Viewpoint", 11491900],
+        ["Desert Walk to Nearby Oases", 14996117],
+        ["Overnight Desert Camp Near Dades", 15531322]
+      ],
+      "transfer": [
+        ["Dades Valley Private Transfer", 241190],
+        ["Transfer to Tinghir & Todra Gorge", 11877391],
+        ["Transfer to Ouarzazate", 11877391],
+        ["Luxury Chauffeur Service", 11877391],
+        ["Hotel-to-Gorge Transfer", 6621125],
+        ["Group Shuttle Service", 27987052],
+        ["Scenic Desert Route Transfer", 37401857],
+        ["Transfer to Rose Valley (Kelaat M'Gouna)", 37401857],
+        ["Multi-Stop Transfer Service", 15360686],
+        ["Family Transfer with Car Seats", 14719525]
+      ]
+    }
+  },
+  "Akchour": {
+    "id": "a0b0b0a0-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+    "cats": ["tour", "guided", "stay", "meal", "activity", "transfer"],
+    "pools": {
+      "tour": [
+        ["Akchour Waterfalls Walk", 14996117],
+        ["God's Bridge Natural Arch Walk", 14996117],
+        ["Akchour River & Gorge Walk", 14996117],
+        ["Akchour Natural Pools Walk", 14996117],
+        ["Akchour to Chefchaouen Trail Walk", 14996117],
+        ["Akchour Valley Panoramic Walk", 14996117],
+        ["Akchour Lower Waterfalls Walk", 14996117],
+        ["Akchour Upper Gorge Walk", 14996117],
+        ["Akchour Forest & Nature Trail", 14996117],
+        ["Akchour River Crossing Walk", 14996117],
+        ["Akchour Cliff Path Walk", 14996117],
+        ["Akchour Cave Visit & Walk", 14996117],
+        ["Akchour Plateau View Walk", 14996117],
+        ["Akchour Ridge Walk", 14996117],
+        ["Akchour Valley & Falls Panoramic Walk", 14996117]
+      ],
+      "guided": [
+        ["Hidden Trails of Akchour Waterfalls", 14996117],
+        ["God's Bridge Guided Walk", 14996117],
+        ["Akchour Gorge Discovery Walk", 14996117],
+        ["Akchour Photography Walk", 35097550],
+        ["Akchour Flora & Fauna Walk", 14996117],
+        ["Akchour Natural Pools Guided Walk", 14996117],
+        ["Rif Mountains Foothill Walk", 14996117],
+        ["Akchour River & Forest Walk", 14996117]
+      ],
+      "stay": [
+        ["Mountain Lodge Near Akchour", 34940612],
+        ["Riad Near Akchour Waterfalls", 15531325],
+        ["Traditional Guesthouse in Akchour Village", 15531322],
+        ["Eco-Lodge in the Rif Mountains", 34940612],
+        ["Riad with Valley Views", 34645081],
+        ["Forest Cabin Near the Gorge", 34940612],
+        ["Boutique Lodge with Mountain Views", 34645081],
+        ["Rustic Guesthouse Near the River", 15531322]
+      ],
+      "meal": [
+        ["Traditional Berber Dinner at a Lodge", 998244],
+        ["Tagine Dinner with Waterfall Views", 50630],
+        ["Couscous Lunch at a Village Restaurant", 36916123],
+        ["Moroccan Pastry & Mint Tea Ceremony", 30906051],
+        ["Harira & Tagine Tasting", 30068444],
+        ["Family-Style Berber Home Meal", 36799049],
+        ["Riverside Picnic Lunch", 2287524],
+        ["Rooftop Dinner with Mountain Views", 50630],
+        ["Fresh Trout from Akchour River", 998244],
+        ["Goat Cheese & Olive Tasting Lunch", 30906051]
+      ],
+      "activity": [
+        ["Hiking to Akchour Waterfalls", 14996117],
+        ["God's Bridge Hiking Trail", 14996117],
+        ["Swimming in Akchour Natural Pools", 14996117],
+        ["Rock Climbing in Akchour Gorge", 14996117],
+        ["Canyoning in Akchour River", 14996117],
+        ["Mountain Biking in the Rif Mountains", 13358011],
+        ["Horse Riding in the Valley", 11491900],
+        ["Yoga Session Near the Waterfalls", 36895635],
+        ["Photography Walk in the Gorge", 35097550],
+        ["Cliff Jumping at Akchour Pools", 14996117]
+      ],
+      "transfer": [
+        ["Akchour Private Transfer from Chefchaouen", 241190],
+        ["Luxury Chauffeur Service", 11877391],
+        ["Hotel-to-Waterfalls Transfer", 6621125],
+        ["Group Shuttle Service", 27987052],
+        ["Scenic Rif Mountains Transfer", 37401857],
+        ["Transfer to Chefchaouen", 11877391],
+        ["Transfer to Tetouan", 11877391],
+        ["Multi-Stop Transfer Service", 15360686],
+        ["Night Transfer Service", 19068524],
+        ["Family Transfer with Car Seats", 14719525]
+      ]
+    }
+  },
+  "Al Hoceima": {
+    "id": "a04040a0-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+    "cats": ["tour", "guided", "stay", "meal", "activity", "transfer"],
+    "pools": {
+      "tour": [
+        ["Al Hoceima National Park Walk", 14996117],
+        ["Al Hoceima Beach & Corniche Walk", 30557503],
+        ["Quemado Beach Tour", 30557503],
+        ["Al Hoceima Medina Walk", 14996117],
+        ["Cap des Trois Fourches Peninsula Tour", 30557503],
+        ["Al Hoceima Port & Harbor Walk", 30557503],
+        ["Plage Sfiha Beach Walk", 30557503],
+        ["Al Hoceima Bay Panoramic Tour", 30557503],
+        ["Al Hoceima Old Town Walk", 14996117],
+        ["Cala Iris Beach & Village Tour", 30557503],
+        ["Al Hoceima National Park Cliff Walk", 14996117],
+        ["Al Hoceima Marina Walk", 30557503],
+        ["Bades Bay & Beach Walk", 30557503],
+        ["Al Hoceima Mediterranean Coast Drive", 30557503],
+        ["Al Hoceima Fishing Port Walk", 30557503]
+      ],
+      "guided": [
+        ["Hidden Coves of Al Hoceima Coast", 30557503],
+        ["Al Hoceima National Park Discovery Walk", 14996117],
+        ["Al Hoceima Food & Market Walk", 22711555],
+        ["Al Hoceima Photography Walk", 35097550],
+        ["Cap des Trois Fourches Guided Walk", 30557503],
+        ["Al Hoceima Nightlife & Beach Walk", 19068524],
+        ["Local Life at Al Hoceima Fishing Port", 30557503],
+        ["Al Hoceima Medina Discovery Walk", 14996117]
+      ],
+      "stay": [
+        ["Beachfront Hotel on Quemado Beach", 30557503],
+        ["Seaside Resort on Al Hoceima Bay", 34940612],
+        ["Boutique Hotel in Al Hoceima Town", 34940612],
+        ["Riad Near the Medina", 15531325],
+        ["Coastal Guesthouse Near the Port", 15531322],
+        ["Luxury Hotel with Mediterranean View", 34645081],
+        ["Eco-Lodge in Al Hoceima National Park", 34940612],
+        ["Beachfront Villa on Plage Sfiha", 34645081]
+      ],
+      "meal": [
+        ["Fresh Seafood at Al Hoceima Port", 998244],
+        ["Traditional Moroccan Dinner in a Riad", 998244],
+        ["Al Hoceima Street Food Tour", 27999308],
+        ["Rooftop Dinner with Mediterranean Views", 50630],
+        ["Couscous Lunch at a Seaside Restaurant", 36916123],
+        ["Harira & Tagine Tasting", 30068444],
+        ["Moroccan Pastry & Mint Tea Ceremony", 30906051],
+        ["Fine Dining at an Al Hoceima Hotel", 9143471],
+        ["Family-Style Moroccan Home Meal", 36799049],
+        ["Grilled Sardines & Calamari at the Port", 998244]
+      ],
+      "activity": [
+        ["Surf Lesson at Quemado Beach", 36005570],
+        ["Kitesurfing at Al Hoceima Bay", 36005570],
+        ["Hammam & Spa in the Medina", 33279021],
+        ["Al Hoceima City Bike Tour", 13358011],
+        ["Boat Trip Along the Mediterranean Coast", 29781323],
+        ["Beach Horse Riding on Al Hoceima Beach", 11491900],
+        ["Yoga Session on the Beach", 36895635],
+        ["Hiking in Al Hoceima National Park", 14996117],
+        ["Fishing Trip in the Mediterranean", 29781323],
+        ["Photography Walk Along the Corniche", 35097550]
+      ],
+      "transfer": [
+        ["Al Hoceima Airport Private Transfer", 241190],
+        ["Transfer to Nador", 11877391],
+        ["Transfer to Chefchaouen", 11877391],
+        ["Luxury Chauffeur Service", 11877391],
+        ["Hotel-to-Beach Transfer", 6621125],
+        ["Group Shuttle Service", 27987052],
+        ["Scenic Mediterranean Coast Transfer", 37401857],
+        ["Transfer to Tetouan", 11877391],
+        ["Multi-Stop Transfer Service", 15360686],
+        ["Family Transfer with Car Seats", 14719525]
+      ]
+    }
+  },
+  "Nador": {
+    "id": "a05050a0-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+    "cats": ["tour", "guided", "stay", "meal", "activity", "transfer"],
+    "pools": {
+      "tour": [
+        ["Marchica Lagoon Panoramic Tour", 30557503],
+        ["Nador Beach & Corniche Walk", 30557503],
+        ["Nador City Center Walk", 19068524],
+        ["Cap des Trois Fourches Peninsula Tour", 30557503],
+        ["Nador Port & Harbor Walk", 30557503],
+        ["Sebkha de Bou Areg Lagoon Walk", 30557503],
+        ["Nador Old Medina Walk", 14996117],
+        ["Kariat Arekmane Beach Tour", 30557503],
+        ["Nador Market & Souk Walk", 22711555],
+        ["Marchica Lagoon Marina Walk", 30557503],
+        ["Nador Coastline Drive Tour", 30557503],
+        ["Bou Areg Beach Walk", 30557503],
+        ["Nador Fishing Port Walk", 30557503],
+        ["Marchica Lagoon Bird Watching Walk", 14996117],
+        ["Nador Corniche Promenade Walk", 30557503]
+      ],
+      "guided": [
+        ["Hidden Coves of Nador Coast", 30557503],
+        ["Marchica Lagoon Discovery Walk", 30557503],
+        ["Nador Food & Market Walk", 22711555],
+        ["Nador Photography Walk", 35097550],
+        ["Cap des Trois Fourches Guided Walk", 30557503],
+        ["Nador Nightlife & Beach Walk", 19068524],
+        ["Local Life at Nador Fishing Port", 30557503],
+        ["Nador Medina Discovery Walk", 14996117]
+      ],
+      "stay": [
+        ["Beachfront Hotel on Nador Beach", 30557503],
+        ["Seaside Resort on Marchica Lagoon", 34940612],
+        ["Boutique Hotel in Nador City Center", 34940612],
+        ["Riad Near the Medina", 15531325],
+        ["Lagoon Resort with Marina Access", 34645081],
+        ["Coastal Guesthouse Near the Port", 15531322],
+        ["Luxury Hotel with Lagoon View", 34645081],
+        ["Beachfront Villa on Bou Areg Beach", 34940612]
+      ],
+      "meal": [
+        ["Fresh Seafood at Nador Port", 998244],
+        ["Traditional Moroccan Dinner in a Riad", 998244],
+        ["Nador Street Food Tour", 27999308],
+        ["Rooftop Dinner with Lagoon Views", 50630],
+        ["Couscous Lunch at a Seaside Restaurant", 36916123],
+        ["Harira & Tagine Tasting", 30068444],
+        ["Moroccan Pastry & Mint Tea Ceremony", 30906051],
+        ["Fine Dining at a Nador Hotel", 9143471],
+        ["Family-Style Moroccan Home Meal", 36799049],
+        ["Grilled Fish Dinner on the Corniche", 998244]
+      ],
+      "activity": [
+        ["Surf Lesson at Nador Beach", 36005570],
+        ["Kitesurfing at Marchica Lagoon", 36005570],
+        ["Hammam & Spa in the Medina", 33279021],
+        ["Nador City Bike Tour", 13358011],
+        ["Boat Trip on Marchica Lagoon", 29781323],
+        ["Beach Horse Riding on Nador Beach", 11491900],
+        ["Yoga Session on the Beach", 36895635],
+        ["Kayaking in Marchica Lagoon", 29781323],
+        ["Fishing Trip in the Mediterranean", 29781323],
+        ["Bird Watching at the Lagoon", 14996117]
+      ],
+      "transfer": [
+        ["Nador Airport Private Transfer", 241190],
+        ["Transfer to Al Hoceima", 11877391],
+        ["Transfer to Oujda", 11877391],
+        ["Luxury Chauffeur Service", 11877391],
+        ["Hotel-to-Beach Transfer", 6621125],
+        ["Group Shuttle Service", 27987052],
+        ["Scenic Mediterranean Coast Transfer", 37401857],
+        ["Transfer to Chefchaouen", 11877391],
+        ["Multi-Stop Transfer Service", 15360686],
+        ["Family Transfer with Car Seats", 14719525]
+      ]
+    }
+  },
+  "Tetouan": {
+    "id": "a00a00a0-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+    "cats": ["tour", "guided", "workshop", "stay", "meal", "activity", "transfer"],
+    "pools": {
+      "tour": [
+        ["Tetouan Medina Guided Walk", 14996117],
+        ["Tetouan Archaeological Museum Visit", 18341651],
+        ["Tetouan Royal Palace Exterior Tour", 19068524],
+        ["Hassan II Square Walk", 19068524],
+        ["Tetouan Jewish Quarter (Mellah) Walk", 14996117],
+        ["Tetouan Craft Center Visit", 32422996],
+        ["Martil Beach & River Walk", 30557503],
+        ["Tetouan Old Medina Souks Walk", 14996117],
+        ["Tetouan Ethnographic Museum Visit", 18341651],
+        ["Bab el-Oqla Gate Tour", 18341651],
+        ["Tetouan Andalusian Quarter Walk", 14996117],
+        ["Tetouan Art School Visit", 28582577],
+        ["Tetouan City Center & Boulevard Walk", 19068524],
+        ["Rincon Beach & Mediterranean Coast Walk", 30557503],
+        ["Tetouan Kasbah Walk", 18341651]
+      ],
+      "guided": [
+        ["Hidden Alleys of Tetouan Medina", 14996117],
+        ["Tetouan Souk & Craft Discovery", 22711555],
+        ["Tetouan Food Market Walk", 22711555],
+        ["Tetouan Photography Walk", 35097550],
+        ["Tetouan Andalusian Heritage Walk", 14996117],
+        ["Tetouan Jewish Heritage Walk", 14996117],
+        ["Tetouan Art & Culture Walk", 28582577],
+        ["Martil Beach & River Guided Walk", 30557503]
+      ],
+      "workshop": [
+        ["Tetouan Pottery & Zellige Workshop", 32422996],
+        ["Traditional Tetouani Cooking Class", 2287528],
+        ["Calligraphy & Illumination Workshop", 36792023],
+        ["Leather & Saddlebag Workshop", 32422996],
+        ["Henna Art Workshop", 4727987],
+        ["Spice Blending & Tagine Workshop", 31653073],
+        ["Moroccan Pastry Making Class", 2287528],
+        ["Berber Carpet Weaving Workshop", 32422996],
+        ["Tetouan Painting & Art Workshop", 28582577]
+      ],
+      "stay": [
+        ["Riad in Tetouan Medina", 15531325],
+        ["Boutique Hotel Near Hassan II Square", 34940612],
+        ["Seaside Hotel Near Martil Beach", 30557503],
+        ["Heritage Riad in the Andalusian Quarter", 15531325],
+        ["Traditional Guesthouse in the Mellah", 15531322],
+        ["Modern Hotel in City Center", 34940612],
+        ["Riad with Medina Views", 34645081],
+        ["Beachfront Hotel on Rincon Beach", 30557503]
+      ],
+      "meal": [
+        ["Traditional Tetouani Dinner in a Riad", 998244],
+        ["Tetouan Street Food Tour", 27999308],
+        ["Seafood Lunch at Martil Beach", 998244],
+        ["Couscous Lunch at a Medina Restaurant", 36916123],
+        ["Rooftop Dinner with Medina Views", 50630],
+        ["Harira & Tagine Tasting", 30068444],
+        ["Moroccan Pastry & Mint Tea Ceremony", 30906051],
+        ["Fine Dining at a Tetouan Riad", 9143471],
+        ["Family-Style Moroccan Home Meal", 36799049],
+        ["Andalusian-Inspired Dinner", 50630]
+      ],
+      "activity": [
+        ["Surf Lesson at Martil Beach", 36005570],
+        ["Hammam & Spa in the Medina", 33279021],
+        ["Tetouan City Bike Tour", 13358011],
+        ["Beach Horse Riding on Martil Beach", 11491900],
+        ["Boat Trip from Martil Port", 29781323],
+        ["Yoga Session on the Beach", 36895635],
+        ["Photography Walk in the Medina", 35097550],
+        ["Kitesurfing at Rincon Beach", 36005570],
+        ["Cooking Class with Market Visit", 2287528],
+        ["Fishing Trip in the Mediterranean", 29781323]
+      ],
+      "transfer": [
+        ["Tetouan Private Transfer", 241190],
+        ["Transfer to Tangier", 11877391],
+        ["Transfer to Chefchaouen", 11877391],
+        ["Luxury Chauffeur Service", 11877391],
+        ["Hotel-to-Medina Transfer", 6621125],
+        ["Group Shuttle Service", 27987052],
+        ["Scenic Mediterranean Coast Transfer", 37401857],
+        ["Transfer to Martil Beach", 11877391],
+        ["Multi-Stop Transfer Service", 15360686],
+        ["Family Transfer with Car Seats", 14719525]
+      ]
+    }
+  }
+}
